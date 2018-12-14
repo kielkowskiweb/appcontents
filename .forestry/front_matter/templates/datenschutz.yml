@@ -1,0 +1,20 @@
+---
+label: Datenschutz
+hide_body: true
+is_partial: false
+fields:
+- type: textarea
+  name: kurztext
+  label: Kurztext
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: langtext
+  label: Langtext
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  default: "<p></p>"
