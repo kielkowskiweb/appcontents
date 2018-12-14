@@ -18,3 +18,5 @@ fields:
     schema:
       format: html-blocks
   default: "<p></p>"
+pages:
+- content/datenschutz.md
