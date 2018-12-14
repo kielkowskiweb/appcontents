@@ -1,0 +1,4 @@
+baseURL = "https://content.eat-and-move.com"
+languageCode = "de-de"
+theme = "kkapp"
+title = "kkapp"
