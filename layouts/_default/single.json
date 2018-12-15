@@ -1,0 +1,9 @@
+{{ define "response" }}
+{
+  {{$i:=0}}
+ {{range $k,$v := .Params}}
+ "{{$k}}":"{{$v}}",
+ {{end}}
+ "dummy":true
+}
+{{ end }}

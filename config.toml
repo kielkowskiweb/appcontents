@@ -1,4 +1,7 @@
-baseURL = "https://content.eat-and-move.com"
+baseURL = "https://appcontent.eat-and-move.com"
 languageCode = "de-de"
-theme = "kkapp"
 title = "kkapp"
+[outputs]
+  page = ["json"]
+  section = ["json"]
+  home = ["json"]
