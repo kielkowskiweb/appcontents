@@ -1,0 +1,32 @@
+---
+label: Labels
+hide_body: true
+is_partial: false
+fields:
+- type: field_group_list
+  name: label
+  label: Label
+  fields:
+  - type: text
+    name: name
+    label: Name
+  - type: field_group_list
+    name: sprachen
+    label: Sprachen
+    fields:
+    - type: select
+      name: sprache
+      config:
+        source:
+          type: simple
+        options:
+        - de
+        - en
+      label: Sprache
+    - type: textarea
+      name: content
+      label: Content
+      config:
+        wysiwyg: true
+        schema:
+          format: html-blocks
