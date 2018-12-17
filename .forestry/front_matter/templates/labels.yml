@@ -30,3 +30,5 @@ fields:
         wysiwyg: true
         schema:
           format: html-blocks
+pages:
+- content/labels.md
