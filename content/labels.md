@@ -15,7 +15,7 @@ sprache = "de"
 [[label]]
 name = "Einloggen"
 [[label.sprachen]]
-content = "<p>Anmelden</p>"
+content = "<p>Einloggen</p>"
 sprache = "de"
 
 +++
