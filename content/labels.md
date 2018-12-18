@@ -3,6 +3,11 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "SignUp_Benutzer_existiert_Fehler"
+[[label.sprachen]]
+content = "<p>Für die angegebene Email-Adresse existiert bereits ein Benutzerkonto. Bitte verwenden Sie die Passwort-Vergessen-Funktion.</p>"
+sprache = "de"
+[[label]]
 name = "SignUp_Check_PW_LEN"
 [[label.sprachen]]
 content = "<p>Passwort ist min. 8 Zeichen lang.</p>"
