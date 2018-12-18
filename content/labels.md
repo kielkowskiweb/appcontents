@@ -3,6 +3,16 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "Passwort_bestaetigen"
+[[label.sprachen]]
+content = "<p>Passwort bestätigen</p>"
+sprache = "de"
+[[label]]
+name = "Passwort"
+[[label.sprachen]]
+content = "<p>Passwort</p>"
+sprache = "de"
+[[label]]
 name = "EMail_Adresse"
 [[label.sprachen]]
 content = "<p>E-Mail Adresse</p>"
