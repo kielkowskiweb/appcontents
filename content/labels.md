@@ -3,6 +3,11 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "Passwort_vergessen_absenden"
+[[label.sprachen]]
+content = "<p>Code zusenden</p>"
+sprache = "de"
+[[label]]
 name = "SignIn_Benutzer_Passwort_falsch"
 [[label.sprachen]]
 content = "<p>Email-Adresse oder Passwort falsch.</p>"
