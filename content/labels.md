@@ -5,7 +5,7 @@ title = "Labels"
 [[label]]
 name = "Passwort_vergessen_Erlaeuterung"
 [[label.sprachen]]
-content = "<p>Nach Eingabe Ihrer Emailadresse und Absenden der Anfrage erhalten Sie eine Email mit einer Codenummer zum Ändern Ihres Passworts.</p><p>Lassen Sie dieses Browserfenster bitte geöffnet und prüfen Sie Ihre Emails, ggf. auch den SPAM-Ordner. </p>"
+content = "<p>Nach Eingabe Ihrer Emailadresse und Absenden der Anfrage erhalten Sie eine Email mit einer Codenummer zum Ändern Ihres Passworts.</p><p>Lassen Sie dieses Browserfenster bitte geöffnet und prüfen Sie Ihre Emails, ggf. auch den SPAM-Ordner.  Die Absenderadresse lautet no-reply@verificationemail.com</p>"
 sprache = "de"
 [[label]]
 name = "Passwort_vergessen_absenden"
