@@ -25,7 +25,7 @@ sprache = "de"
 [[label]]
 name = "SignUp_Check_PW_ident"
 [[label.sprachen]]
-content = "<p>Passwörter sind gleich</p>"
+content = "<p>Passwörter sind identisch</p>"
 sprache = "de"
 [[label]]
 name = "SignUp_Check_Email"
