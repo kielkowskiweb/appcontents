@@ -3,6 +3,11 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "SignIn_Benutzer_Passwort_falsch"
+[[label.sprachen]]
+content = "<p>Email-Adresse oder Passwort falsch.</p>"
+sprache = "de"
+[[label]]
 name = "SignUp_Benutzer_existiert_Fehler"
 [[label.sprachen]]
 content = "<p>Für die angegebene Email-Adresse existiert bereits ein Benutzerkonto. Benutzen Sie den Login.</p>"
