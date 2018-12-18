@@ -5,22 +5,22 @@ title = "Labels"
 [[label]]
 name = "SignUp_Check_PW_LEN"
 [[label.sprachen]]
-content = "<p>Passwort ist mindestens 8 Zeichen lang.</p>"
+content = "<p>Passwort ist min. 8 Zeichen lang.</p>"
 sprache = "de"
 [[label]]
 name = "SignUp_Check_PW_NUM"
 [[label.sprachen]]
-content = "<p>Passwort beinhaltet min. 1 Zahl</p>"
+content = "<p>Passwort enthält min. 1 Zahl</p>"
 sprache = "de"
 [[label]]
 name = "SignUp_Check_PW_KB"
 [[label.sprachen]]
-content = "<p>Passwort beinhaltet min. 1 Kleinbuchstaben</p>"
+content = "<p>Passwort enthält min. 1 Kleinbuchstaben</p>"
 sprache = "de"
 [[label]]
 name = "SignUp_Check_PW_GB"
 [[label.sprachen]]
-content = "<p>Passwort beinhaltet min. 1 Großbuchstaben</p>"
+content = "<p>Passwort enthält min. 1 Großbuchstaben</p>"
 sprache = "de"
 [[label]]
 name = "SignUp_Check_PW_ident"
