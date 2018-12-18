@@ -3,6 +3,11 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "Codenummer"
+[[label.sprachen]]
+content = "<p>Code-Nummer</p>"
+sprache = "de"
+[[label]]
 name = "Passwort_aendern_Code_Button"
 [[label.sprachen]]
 content = "<p>Passwort ändern mit Code</p>"
