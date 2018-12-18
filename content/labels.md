@@ -3,6 +3,11 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "Passwort_vergessen_Button"
+[[label.sprachen]]
+content = "<p>Passwort vergessen</p>"
+sprache = "de"
+[[label]]
 name = "Passwort_vergessen_Text_Login"
 [[label.sprachen]]
 content = "<p><strong>Passwort vergessen?</strong> Klicken Sie einfach hier um ein neues Passwort zu vergeben:</p>"
