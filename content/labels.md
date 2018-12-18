@@ -5,7 +5,7 @@ title = "Labels"
 [[label]]
 name = "SignUp_Benutzer_existiert_Fehler"
 [[label.sprachen]]
-content = "<p>Für die angegebene Email-Adresse existiert bereits ein Benutzerkonto. Bitte verwenden Sie die Passwort-Vergessen-Funktion.</p>"
+content = "<p>Für die angegebene Email-Adresse existiert bereits ein Benutzerkonto.</p>"
 sprache = "de"
 [[label]]
 name = "SignUp_Check_PW_LEN"
