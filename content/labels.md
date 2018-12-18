@@ -3,6 +3,11 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "Fehlerhafte_Angaben"
+[[label.sprachen]]
+content = "<p>Bitte prüfen Sie die eingegebenen Daten.</p>"
+sprache = "de"
+[[label]]
 name = "Passwort_aendern"
 [[label.sprachen]]
 content = "<p>Passwort Ändern</p>"
