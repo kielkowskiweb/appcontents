@@ -3,6 +3,11 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "Passwort_vergessen_Erlaeuterung"
+[[label.sprachen]]
+content = "<p>Nach Eingabe Ihrer Emailadresse und Absenden der Anfrage erhalten Sie eine Email mit einer Codenummer zum Ändern Ihres Passworts.</p><p>Lassen Sie dieses Browserfenster bitte geöffnet und prüfen Sie Ihre Emails, ggf. auch den SPAM-Ordner. </p>"
+sprache = "de"
+[[label]]
 name = "Passwort_vergessen_absenden"
 [[label.sprachen]]
 content = "<p>Code zusenden</p>"
