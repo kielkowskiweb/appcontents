@@ -40,6 +40,11 @@ sprache = "de"
 [[label]]
 name = "SignIn_Benutzer_Passwort_falsch"
 [[label.sprachen]]
+content = "<p>Email-Adresse oder Passwort nicht korrekt.</p>"
+sprache = "de"
+[[label]]
+name = "SignIn_Benutzer_existiert_nicht"
+[[label.sprachen]]
 content = "<p>Für diese E-Mail Adresse ist noch kein Kundenkonto angelegt. Sie können unter <a href=\"/signup\" title=\"\">Registrieren</a> ein neues Kundenkonto anlegen.</p>"
 sprache = "de"
 [[label]]
