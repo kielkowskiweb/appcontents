@@ -40,7 +40,7 @@ sprache = "de"
 [[label]]
 name = "SignIn_Benutzer_Passwort_falsch"
 [[label.sprachen]]
-content = "<p>Email-Adresse oder Passwort nicht korrekt.</p>"
+content = "<p>Passwort nicht korrekt.</p>"
 sprache = "de"
 [[label]]
 name = "SignIn_Benutzer_existiert_nicht"
