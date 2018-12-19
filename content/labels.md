@@ -45,7 +45,7 @@ sprache = "de"
 [[label]]
 name = "SignUp_Benutzer_existiert_Fehler"
 [[label.sprachen]]
-content = "<p>Für die angegebene Email-Adresse existiert bereits ein Benutzerkonto. Benutzen Sie den <a href=\"/signin\" title=\"\">Login.</a></p>"
+content = "<p>Für die angegebene Email-Adresse existiert bereits ein Benutzerkonto. Benutzen Sie den<a href=\"/signin\" title=\"\"> Login.</a></p>"
 sprache = "de"
 [[label]]
 name = "SignUp_Check_PW_LEN"
