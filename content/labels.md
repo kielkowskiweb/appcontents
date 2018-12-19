@@ -85,7 +85,7 @@ sprache = "de"
 [[label]]
 name = "Passwort_vergessen_Text_Login"
 [[label.sprachen]]
-content = "<p><strong>Passwort vergessen?</strong> Klicken Sie einfach hier um ein neues Passwort zu vergeben:</p>"
+content = "<p><strong>Passwort vergessen?</strong> Klicken Sie einfach <a href=\"/lostpassword\" title=\"\"><strong>HIER</strong></a> um ein neues Passwort zu vergeben.</p>"
 sprache = "de"
 [[label]]
 name = "Passwort_bestaetigen"
