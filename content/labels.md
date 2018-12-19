@@ -45,7 +45,7 @@ sprache = "de"
 [[label]]
 name = "SignUp_Benutzer_existiert_Fehler"
 [[label.sprachen]]
-content = "<p>Für die angegebene Email-Adresse existiert bereits ein Benutzerkonto. Benutzen Sie den Login.</p>"
+content = "<p>Für die angegebene Email-Adresse existiert bereits ein Benutzerkonto. Benutzen Sie den <a href=\"\" title=\"\">Login</a>.</p>"
 sprache = "de"
 [[label]]
 name = "SignUp_Check_PW_LEN"
@@ -85,7 +85,7 @@ sprache = "de"
 [[label]]
 name = "Passwort_vergessen_Text_Login"
 [[label.sprachen]]
-content = "<p><strong>Passwort vergessen?</strong> Klicken Sie einfach <a href=\"/lostpassword\" title=\"\">HIER</a> um ein neues Passwort zu vergeben.</p>"
+content = "<p><strong>Passwort vergessen?</strong> Klicken Sie einfach hier um ein neues Passwort zu vergeben:</p>"
 sprache = "de"
 [[label]]
 name = "Passwort_bestaetigen"
