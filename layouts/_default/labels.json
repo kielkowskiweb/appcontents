@@ -3,7 +3,7 @@
  {{range .Params.label}}
  "{{.name}}":{
   {{range .sprachen}}
-"{{.sprache}}":"{{.content}}"
+"{{.sprache}}":"{{htmlEscape .content}}"
   {{end}}
 },
  {{end}}
