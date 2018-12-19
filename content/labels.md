@@ -3,6 +3,11 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "Landing_Button_Intro"
+[[label.sprachen]]
+content = "<p>Wählen Sie hier Ihre Anwendung aus:</p>"
+sprache = "de"
+[[label]]
 name = "Fehlerhafte_Angaben"
 [[label.sprachen]]
 content = "<p>Bitte prüfen Sie die eingegebenen Daten.</p>"
