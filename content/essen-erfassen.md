@@ -2,6 +2,31 @@
 date = "2018-12-20T08:50:45+00:00"
 layout = "labels"
 [[label]]
+name = "Label_Uhrzeit"
+[[label.sprachen]]
+content = "<p>Uhrzeit</p>"
+sprache = "de"
+[[label]]
+name = "Label_Menge"
+[[label.sprachen]]
+content = "<p>Menge</p>"
+sprache = "de"
+[[label]]
+name = "Label_Mahlzeit"
+[[label.sprachen]]
+content = "<p>Mahlzeit</p>"
+sprache = "de"
+[[label]]
+name = "Label_Lebensmittel_auswaehlen"
+[[label.sprachen]]
+content = "<p>Lebensmittel auswählen</p>"
+sprache = "de"
+[[label]]
+name = "Label_Uhrzeit_Mahlzeit"
+[[label.sprachen]]
+content = "<p>Uhrzeit der Mahlzeit auswählen</p>"
+sprache = "de"
+[[label]]
 name = "Button_Mahlzeit_hinzufuegen"
 [[label.sprachen]]
 content = "<p>Mahlzeit hinzufügen</p>"
