@@ -34,7 +34,7 @@ sprache = "de"
 [[label]]
 name = "Mahlzeit_erfassen"
 [[label.sprachen]]
-content = "<p><strong>2. Mahlzeiten erfassen</strong></p><p><em>Hier können Sie aus Ihrer Favoritenliste Lebensmittel suchen.</em></p>"
+content = "<p><strong>2. Mahlzeiten erfassen<br></strong><em>Hier können Sie aus Ihrer Favoritenliste Lebensmittel suchen.</em></p>"
 sprache = "de"
 [[label]]
 name = "Frage_Tagesbeginn"
