@@ -9,7 +9,7 @@ sprache = "de"
 [[label]]
 name = "Frage_Tagesbeginn"
 [[label.sprachen]]
-content = "<p><strong>2. Wann hat ihr Tag begonnen?</strong></p>"
+content = "<p><strong>1. Wann hat ihr Tag begonnen?</strong></p>"
 sprache = "de"
 
 +++
