@@ -2,6 +2,11 @@
 date = "2018-12-20T08:50:45+00:00"
 layout = "labels"
 [[label]]
+name = "Mahlzeit_speichern"
+[[label.sprachen]]
+content = "<p>Mahlzeit speichern</p>"
+sprache = "de"
+[[label]]
 name = "Label_Uhrzeit"
 [[label.sprachen]]
 content = "<p>Uhrzeit</p>"
