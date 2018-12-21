@@ -2,6 +2,16 @@
 date = "2018-12-20T08:50:45+00:00"
 layout = "labels"
 [[label]]
+name = "Suchergebnis_Handel"
+[[label.sprachen]]
+content = "<p>Aus dem Handel:</p>"
+sprache = "de"
+[[label]]
+name = "Suchergebnis_unsere_Auswahl"
+[[label.sprachen]]
+content = "<p>Unsere Auswahl:</p>"
+sprache = "de"
+[[label]]
 name = "Favoriten"
 [[label.sprachen]]
 content = "<p>Favoriten</p>"
