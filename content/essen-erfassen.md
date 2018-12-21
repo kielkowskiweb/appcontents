@@ -2,6 +2,11 @@
 date = "2018-12-20T08:50:45+00:00"
 layout = "labels"
 [[label]]
+name = "Favoriten"
+[[label.sprachen]]
+content = "<p>Favoriten</p>"
+sprache = "de"
+[[label]]
 name = "Search_Input_Placeholder"
 [[label.sprachen]]
 content = "<p>Aus über 100.000 Lebensmitteln</p>"
