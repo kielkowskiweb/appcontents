@@ -9,7 +9,7 @@ sprache = "de"
 [[label]]
 name = "Search_Input_Placeholder"
 [[label.sprachen]]
-content = "<p>Aus über 100.000 Lebensmitteln</p>"
+content = "<p>Suche</p>"
 sprache = "de"
 [[label]]
 name = "Button_Mahlzeit_speichern"
