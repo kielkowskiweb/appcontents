@@ -22,6 +22,6 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: markdown
+        format: html-blocks
 pages:
 - content/hilfe.md
