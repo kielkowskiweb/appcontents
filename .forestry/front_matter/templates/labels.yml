@@ -31,5 +31,5 @@ fields:
         schema:
           format: html-blocks
 pages:
-- content/labels.md
 - content/essen-erfassen.md
+- content/labels.md
