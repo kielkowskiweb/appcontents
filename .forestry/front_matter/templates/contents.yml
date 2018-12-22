@@ -23,3 +23,5 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
+pages:
+- content/hilfe.md

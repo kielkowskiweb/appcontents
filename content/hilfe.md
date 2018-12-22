@@ -1,7 +1,8 @@
 +++
 date = "2018-12-22T10:49:17+00:00"
-draft = true
+label = []
 [[contents]]
+content = "## Hilfe\n\nSie haben Fragen zur Anwendung oder auf Ihrem Gerät ein technisches Problem? Wir helfen Ihnen gerne auf die Sprünge.\n\n**Körperkonzepte | Praxis für Ernährungsmedizin  \n**Leibnizstraße 56 | 10629 Berlin  \nTel 030 - 88 92 20 - 55 | Fax 030 - 88 92 20 - 65\n\n[Fragen zur Ernährung und Anregungen](mailto:support@eat-and-move.com \"eamo\")\n\n_z. B. Ich nehme schlecht ab | Ich leide unter Heißhunger | Ich habe Fragen zum Erfassen der Mahlzeiten ..._\n\n[Technisches Problem melden](mailto:support@eat-and-move.com \"support\")\n\n_z. B. Keine Anmeldung möglich / Benutzername ungültig | Passwort kann nicht zurückgesetzt werden | App zeigt nur Meldung ‚Daten ..._\n\n## Impressum\n\n**Körperkonzepte  | Praxis für Ernährungsmedizin**\n\nLeibnizstraße 56  \n10629 Berlin\n\nTel  030 - 88 92 20 - 55  \nFax 030 - 88 92 20 - 65\n\ninfo@koerperkonzepte.com  \nwww.koerperkonzepte.com\n\nVertretungsberechtigt: Daniela Kielkowski  \nInhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV:  \nDaniela Kielkowski – Ärztin\n\nZuständige Kammer:  \nLandesärztekammer Berlin  \nHauptgeschäftsstelle  \nFriedrichstraße 16  \n10969 Berlin\n\nZuständige Aufsichtsbehörde:  \nLandesamt für Gesundheit und Soziales Berlin  \nSächsische Straße 28  \n10707 Berlin\n\nBerufsbezeichnung: Arzt (verliehen in der Bundesrepublik Deutschland)\n\nBerufsrechtliche Regelungen:\n\n* Berufsordnung der Landesärztekammer Berlin\n* Heilberufegesetz des Landes Berlin\n\nDie Regelungen finden sich im Gesetzblatt des Landes Berlin\n\nHaftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung\n\nfür die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.\n\nDesign / Konzept  \n[elvira.beck | design](https://elvirabeck-design.de)"
 sprache = "de"
 
 +++
