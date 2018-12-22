@@ -19,3 +19,7 @@ fields:
   - type: textarea
     name: content
     label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
