@@ -49,6 +49,9 @@ fields:
         - Text
         - Langtext
       label: Fragentyp
+    - type: tag_list
+      name: optionen
+      label: Optionen
     config:
       labelField: frage
   config:
