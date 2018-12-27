@@ -1,0 +1,55 @@
+---
+label: Anamnese
+hide_body: true
+is_partial: false
+fields:
+- type: file
+  name: intro_bild
+  label: Intro Bild
+- type: textarea
+  name: intro_text
+  label: Intro Text
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: field_group_list
+  label: Abschnitte
+  name: abschnitte
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: file
+    name: bild
+    label: Bild
+  - type: field_group_list
+    name: fragen
+    label: Fragen
+    fields:
+    - type: text
+      name: frage
+      label: Frage
+    - type: textarea
+      name: erlaeuterung
+      label: Erlaeuterung
+      config:
+        wysiwyg: true
+        schema:
+          format: html-blocks
+    - type: select
+      name: fragentyp
+      config:
+        source:
+          type: simple
+        options:
+        - Radio
+        - Checkbox
+        - Zahl
+        - Text
+        - Langtext
+      label: Fragentyp
+    config:
+      labelField: frage
+  config:
+    labelField: titel
