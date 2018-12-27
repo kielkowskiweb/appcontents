@@ -56,3 +56,5 @@ fields:
       labelField: frage
   config:
     labelField: titel
+pages:
+- content/anamnese.md
