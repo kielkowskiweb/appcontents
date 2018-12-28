@@ -90,11 +90,94 @@ optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Di
 [[abschnitte]]
 bild = "/uploads/arbeit.jpg"
 titel = "3. ARBEIT UND BERUF"
+[[abschnitte.fragen]]
+frage = "Wie legen Sie Ihren Arbeitsweg zurück?"
+fragentyp = "Radio"
+optionen = ["Auto", "Öffentliche Verkehrsmittel", "Fahrrad", "ich arbeite überwiegend Zuhause", "Öffentliche Verkehrsmittel und Fahrrad"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+frage = "Wie viele Kilometer legen Sie pro Jahr für den Weg zur Arbeit mit dem Rad zurück?"
+fragentyp = "Zahl"
+[[abschnitte.fragen]]
+frage = "Üben Sie Ihren Beruf überwiegend sitzend oder  in Bewegung aus?"
+fragentyp = "Radio"
+optionen = ["sitzend z. B. am PC"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+frage = "Zu welchen Zeiten / Schichten arbeiten Sie?"
+fragentyp = "Radio"
+optionen = ["Tagschicht", "Früh/Spätschicht", "3-Schichtsystem", "Nur Nachtschicht"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+frage = "Verlassen Sie vor 7:00 Uhr das Haus?"
+fragentyp = "Radio"
+optionen = ["Ja", "Nein"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+frage = "Frühstücken Sie Zuhause?"
+fragentyp = "Radio"
+optionen = ["Ja", "Nein", "manchmal"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+frage = "Essen Sie zum Frühstück Kohlehydrate  (Brot, Müsli, Getreide) ?"
+fragentyp = "Radio"
+optionen = ["Ja", "Nein", "manchmal"]
+pflichtfeld = true
 [[abschnitte]]
+bild = "/uploads/essegewohnheiten.png"
 titel = "4. ESSGEWOHNHEITEN"
+[[abschnitte.fragen]]
+frage = "Frühstücken Sie regelmäßig bevor Sie aus dem Haus gehen?"
+fragentyp = "Radio"
+optionen = ["immer", "manchmal", "eher nicht", "nie"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+frage = "Essen Sie regelmäßig bis 14 Uhr Mittagessen?"
+fragentyp = "Radio"
+optionen = ["immer", "machmal", "eher nicht", "nie"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+frage = "Essen Sie zum Mittagessen Kohlehydrate (Kartoffeln, Reis, Pasta)?"
+fragentyp = "Radio"
+optionen = ["Ja", "Nein", "Manchmal"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+frage = "Ist das Abendessen Ihre Hauptmahlzeit?"
+fragentyp = "Radio"
+optionen = ["immer", "häufig", "eher nicht"]
+[[abschnitte.fragen]]
+frage = "Essen Sie viel Süßigkeiten / salzige Snacks?"
+fragentyp = "Checkbox"
+optionen = ["täglich", "häufig", "selten"]
+pflichtfeld = false
+[[abschnitte.fragen]]
+frage = "Welche Nahrungsunverträglichkeiten  haben Sie?"
+fragentyp = "Checkbox"
+optionen = ["Laktoseunverträglichkeit", "Glutenunverträglichkeit", "Fruktoseintoleranz", "Histaminunverträglichkeit"]
+[[abschnitte.fragen]]
+frage = "Haben Sie andere Nahrungsmittelunverträglichkeiten?"
+fragentyp = "Langtext"
 [[abschnitte]]
 bild = "/uploads/schlafen.jpg"
+id = "a-5"
 titel = "5. SCHLAFGEWOHNHEITEN"
+[[abschnitte.fragen]]
+frage = "Wie lange schlafen Sie?"
+fragentyp = "Radio"
+id = "f-1"
+optionen = ["weniger als 6 h", "6 - 8 h", "mehr als 8 h"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+frage = "Wie gut schlafen Sie?"
+fragentyp = "Checkbox"
+id = "f-2"
+optionen = ["gut", "schlecht", "überwiegend gut", "überwiegend schlecht"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+frage = "Welche Art der Schlafstörung haben Sie?"
+fragentyp = "Radio"
+id = "f-3"
+optionen = ["Durchschlafstörung", "Einschlafstörung", "Durchschlafstörung und Einschlafstörung"]
 [[abschnitte]]
 bild = "/uploads/sport.jpg"
 titel = "6. SPORT"
