@@ -190,7 +190,7 @@ bild = "/uploads/sport.jpg"
 titel = "6. SPORT"
 [[abschnitte]]
 bild = "/uploads/krankheiten_teil1.jpg"
-titel = "7. ERKRANKUNGEN - TEIL 1"
+titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte]]
 bild = "/uploads/krankheiten_teil2.jpg"
 titel = "7. ERKRANKUNGEN - TEIL 2"
