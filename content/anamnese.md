@@ -72,10 +72,12 @@ optionen = ["Ja, aufgehört vor mehr als 2 Jahren", "Ja, aufgehört vor weniger 
 erlaeuterung = "<p>(Mehrfachauswahl möglich)</p>"
 frage = "Wie leben Sie?"
 fragentyp = "Checkbox"
+id = "f-4"
 optionen = ["Berufstätig ", "Arbeitssuchend", "Rentner", "Allein lebend", "In Partnerschaft lebend ohne Kinder im Haus", "In Partnerschaft lebend mit Kindern im Haus"]
 pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/diaeten_und_co.jpg"
+id = "a-2"
 titel = "2. DIÄTEN & CO"
 [[abschnitte.fragen]]
 frage = "Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?"
