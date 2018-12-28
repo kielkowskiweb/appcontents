@@ -65,6 +65,10 @@ pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/diaeten_und_co.jpg"
 titel = "2. DIÄTEN & CO"
+[[abschnitte.fragen]]
+frage = "Wie lange ist Ihre letzte Diät her?"
+fragentyp = "Radio"
+optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Diät- oder Abnehmbemühungen!"]
 [[abschnitte]]
 bild = "/uploads/arbeit.jpg"
 titel = "3. ARBEIT UND BERUF"
