@@ -6,6 +6,10 @@ intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung hande
 [[abschnitte]]
 titel = "1. ALLGEMEINES – TEIL II"
 [[abschnitte.fragen]]
+frage = "Wenn ja, wie viel rauchen Sie täglich?"
+fragentyp = "Checkbox"
+optionen = ["weniger als 10 Zigaretten", "mehr als 10 Zigaretten"]
+[[abschnitte.fragen]]
 frage = "Waren Sie Raucher?"
 fragentyp = "Radio"
 optionen = ["Ja, aufgehört vor mehr als 2 Jahren", "Ja, aufgehört vor weniger als 2 Jahren"]
