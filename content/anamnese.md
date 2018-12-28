@@ -283,6 +283,11 @@ bild = "/uploads/krankheiten_teil2.jpg"
 id = "a-71"
 titel = "7. ERKRANKUNGEN - TEIL II"
 [[abschnitte.fragen]]
+frage = "Gelenkerkrankungen"
+fragentyp = "Checkbox"
+id = "f-5"
+optionen = ["Arthrose", "Rheuma", "Bandscheibenvorfälle", "Sonstige Gelenke"]
+[[abschnitte.fragen]]
 frage = "Nierenerkrankung"
 fragentyp = "Checkbox"
 id = "f-4"
