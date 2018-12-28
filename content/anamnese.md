@@ -6,6 +6,12 @@ intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung hande
 [[abschnitte]]
 id = "a-00"
 titel = "Ursachen und Ziel"
+[[abschnitte.fragen]]
+frage = "Was wollen Sie erreichen?"
+fragentyp = "Radio"
+id = "f-2"
+optionen = ["Gewichtsstabilisierung", "Gewichtsreduktion", "Gewichtszunahme"]
+pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/eamo_1.png"
 id = "a-10"
