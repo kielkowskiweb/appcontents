@@ -54,12 +54,12 @@ sprache = "de"
 [[label]]
 name = "Button_Mahlzeit_hinzufuegen"
 [[label.sprachen]]
-content = "<p>Mahlzeit hinzufügen</p>"
+content = "<p>Lebensmittel hinzufügen</p>"
 sprache = "de"
 [[label]]
 name = "Mahlzeit_erfassen"
 [[label.sprachen]]
-content = "<p><strong>2. Mahlzeiten erfassen<br></strong><em>Hier können Sie aus Ihrer Favoritenliste Lebensmittel suchen.</em></p>"
+content = "<p><strong>2. Mahlzeiten erfassen<br></strong><em>Hier können Sie aus Ihrer Favoritenliste Lebensmittel suchen. Bitte achten Sie darauf immer die korrekte Uhrzeit auszuwählen!</em></p>"
 sprache = "de"
 [[label]]
 name = "Frage_Tagesbeginn"
