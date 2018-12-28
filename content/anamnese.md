@@ -90,6 +90,11 @@ optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Di
 bild = "/uploads/arbeit.jpg"
 titel = "3. ARBEIT UND BERUF"
 [[abschnitte.fragen]]
+frage = "Üben Sie Ihren Beruf überwiegend sitzend oder  in Bewegung aus?"
+fragentyp = "Radio"
+optionen = ["sitzend z. B. am PC"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Zu welchen Zeiten / Schichten arbeiten Sie?"
 fragentyp = "Radio"
 optionen = ["Tagschicht", "Früh/Spätschicht", "3-Schichtsystem", "Nur Nachtschicht"]
