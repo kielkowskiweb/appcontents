@@ -6,6 +6,9 @@ intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung hande
 [[abschnitte]]
 titel = "1. ALLGEMEINES – TEIL II"
 [[abschnitte.fragen]]
+frage = "Waren Sie Raucher?"
+fragentyp = "Radio"
+optionen = ["Ja, aufgehört vor mehr als 2 Jahren", "Ja, aufgehört vor weniger als 2 Jahren"]
 [[abschnitte.fragen]]
 erlaeuterung = "<p>(Mehrfachauswahl möglich)</p>"
 frage = "Wie leben Sie?"
