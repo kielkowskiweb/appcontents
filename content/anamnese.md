@@ -7,6 +7,12 @@ intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung hande
 id = "a-00"
 titel = "Ursachen und Ziel"
 [[abschnitte.fragen]]
+bild = "/uploads/uebergewicht_kreis.png"
+frage = "Was denken Sie könnte die Ursache für Ihr  Gewichtsproblem sein?"
+fragentyp = "Checkbox"
+id = "f-1"
+optionen = ["Bewegung", "Diäten", "Krankheiten", "Essen", "Stress", "Schlafstörungen"]
+[[abschnitte.fragen]]
 frage = "Was wollen Sie erreichen?"
 fragentyp = "Radio"
 id = "f-2"
