@@ -61,6 +61,7 @@ pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Wenn ja, wie viel rauchen Sie täglich?"
 fragentyp = "Checkbox"
+id = "f-2"
 optionen = ["weniger als 10 Zigaretten", "mehr als 10 Zigaretten"]
 [[abschnitte.fragen]]
 frage = "Waren Sie Raucher?"
