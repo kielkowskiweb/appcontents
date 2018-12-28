@@ -36,6 +36,10 @@ fields:
     - type: text
       name: frage
       label: Frage
+    - type: text
+      name: id
+      label: ID
+      default: f-
     - type: boolean
       name: pflichtfeld
       label: Pflichtfeld
