@@ -242,6 +242,12 @@ bild = "/uploads/krankheiten_teil1.jpg"
 id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte.fragen]]
+frage = "Stoffwechselstörungen / Erkrankungen II"
+fragentyp = "Radio"
+id = "f-2"
+optionen = ["Schilddrüsen - Überfunktion", "Schilddrüsen - Unterfunktion"]
+pflichtfeld = false
+[[abschnitte.fragen]]
 frage = "Stoffwechselstörungen / Erkrankungen III"
 fragentyp = "Radio"
 id = "f-3"
