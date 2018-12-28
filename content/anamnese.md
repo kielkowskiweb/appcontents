@@ -7,6 +7,10 @@ intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung hande
 bild = "/uploads/eamo_1.png"
 titel = "1. ALLGEMEINES - TEIL I"
 [[abschnitte.fragen]]
+frage = "Mein höchstes  Gewicht ist/war:"
+fragentyp = "Zahl"
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Alter:"
 fragentyp = "Zahl"
 pflichtfeld = true
