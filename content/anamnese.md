@@ -283,6 +283,11 @@ bild = "/uploads/krankheiten_teil2.jpg"
 id = "a-71"
 titel = "7. ERKRANKUNGEN - TEIL II"
 [[abschnitte.fragen]]
+frage = "Nierenerkrankung"
+fragentyp = "Checkbox"
+id = "f-4"
+optionen = ["Niereninsuffizienz", "Nierensteine"]
+[[abschnitte.fragen]]
 frage = "Darm"
 fragentyp = "Checkbox"
 id = "f-3"
