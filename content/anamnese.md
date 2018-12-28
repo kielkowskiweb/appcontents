@@ -90,6 +90,11 @@ optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Di
 bild = "/uploads/arbeit.jpg"
 titel = "3. ARBEIT UND BERUF"
 [[abschnitte.fragen]]
+frage = "Frühstücken Sie Zuhause?"
+fragentyp = "Radio"
+optionen = ["Ja", "Nein", "manchmal"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Essen Sie zum Frühstück Kohlehydrate  (Brot, Müsli, Getreide) ?"
 fragentyp = "Radio"
 optionen = ["Ja", "Nein", "manchmal"]
