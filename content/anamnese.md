@@ -140,11 +140,13 @@ pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Frühstücken Sie Zuhause?"
 fragentyp = "Radio"
+id = "f-6"
 optionen = ["Ja", "Nein", "manchmal"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Essen Sie zum Frühstück Kohlehydrate  (Brot, Müsli, Getreide) ?"
 fragentyp = "Radio"
+id = "f-7"
 optionen = ["Ja", "Nein", "manchmal"]
 pflichtfeld = true
 [[abschnitte]]
