@@ -162,16 +162,19 @@ pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Essen Sie regelmäßig bis 14 Uhr Mittagessen?"
 fragentyp = "Radio"
+id = "f-2"
 optionen = ["immer", "machmal", "eher nicht", "nie"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Essen Sie zum Mittagessen Kohlehydrate (Kartoffeln, Reis, Pasta)?"
 fragentyp = "Radio"
+id = "f-3"
 optionen = ["Ja", "Nein", "Manchmal"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Ist das Abendessen Ihre Hauptmahlzeit?"
 fragentyp = "Radio"
+id = "f-4"
 optionen = ["immer", "häufig", "eher nicht"]
 [[abschnitte.fragen]]
 frage = "Essen Sie viel Süßigkeiten / salzige Snacks?"
