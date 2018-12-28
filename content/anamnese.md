@@ -283,6 +283,10 @@ bild = "/uploads/krankheiten_teil2.jpg"
 id = "a-71"
 titel = "7. ERKRANKUNGEN - TEIL II"
 [[abschnitte.fragen]]
+frage = "Wenn ja, welche Medikamente nehmen Sie?"
+fragentyp = "Text"
+id = "f-8"
+[[abschnitte.fragen]]
 frage = "Leber"
 fragentyp = "Checkbox"
 optionen = ["Fettleber", "Erhöhte Leberwerte", "Zirrhose", "Hepatitis"]
