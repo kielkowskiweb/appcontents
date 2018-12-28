@@ -20,6 +20,12 @@ fields:
   - type: text
     name: titel
     label: Titel
+  - type: text
+    name: id
+    label: ID
+    config:
+      required: false
+    default: a-
   - type: file
     name: bild
     label: Bild
