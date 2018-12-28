@@ -214,7 +214,7 @@ id = "f-3"
 optionen = ["Durchschlafstörung", "Einschlafstörung", "Durchschlafstörung und Einschlafstörung"]
 [[abschnitte]]
 bild = "/uploads/sport.jpg"
-id = "a-6"
+id = "a-60"
 titel = "6. SPORT"
 [[abschnitte.fragen]]
 frage = "Treiben Sie Sport?"
@@ -239,6 +239,7 @@ id = "f-4"
 optionen = ["Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)", "Krafttraining (z. B. Gerätesport, Gewichtstraining, Eigengewicht)", "Krafttraining + Ausdauer", "EMS / Powerplate"]
 [[abschnitte]]
 bild = "/uploads/krankheiten_teil1.jpg"
+id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte]]
 bild = "/uploads/krankheiten_teil2.jpg"
