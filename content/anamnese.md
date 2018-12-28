@@ -17,6 +17,6 @@ optionen = ["ja", "nein"]
 [[abschnitte.fragen]]
 frage = "Ich leider an keinen Krankheiten"
 fragentyp = "Checkbox"
-optionen = ["ja"]
+optionen = []
 
 +++
