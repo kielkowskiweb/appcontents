@@ -65,6 +65,9 @@ fields:
     - type: tag_list
       name: optionen
       label: Optionen
+    - type: file
+      name: bild
+      label: Bild
     config:
       labelField: frage
   config:
