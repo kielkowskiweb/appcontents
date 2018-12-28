@@ -242,6 +242,11 @@ bild = "/uploads/krankheiten_teil1.jpg"
 id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte.fragen]]
+frage = "Psychische Erkrankungen – Belastungen"
+fragentyp = "Checkbox"
+id = "f-5"
+optionen = ["Depressionen / Angststörungen", "Alltagsstress", "Migräne"]
+[[abschnitte.fragen]]
 frage = "Durch was wird Ihr Alltagsstress ausgelöst?"
 fragentyp = "Radio"
 id = "f-6"
