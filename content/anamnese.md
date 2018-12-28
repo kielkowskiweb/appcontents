@@ -15,7 +15,7 @@ frage = "Nehmen Sie Medikamente?"
 fragentyp = "Radio"
 optionen = ["ja", "nein"]
 [[abschnitte.fragen]]
-frage = "Ich leider an keinen Krankheiten"
+frage = "Ich leide an keinen Krankheiten"
 fragentyp = "Checkbox"
 optionen = []
 
