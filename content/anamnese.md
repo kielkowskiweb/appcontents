@@ -126,6 +126,11 @@ pflichtfeld = true
 bild = "/uploads/essegewohnheiten.png"
 titel = "4. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
+frage = "Frühstücken Sie regelmäßig bevor Sie aus dem Haus gehen?"
+fragentyp = "Radio"
+optionen = ["immer", "manchmal", "eher nicht", "nie"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Essen Sie regelmäßig bis 14 Uhr Mittagessen?"
 fragentyp = "Radio"
 optionen = ["immer", "machmal", "eher nicht", "nie"]
