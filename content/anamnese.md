@@ -243,7 +243,8 @@ id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte]]
 bild = "/uploads/krankheiten_teil2.jpg"
-titel = "7. ERKRANKUNGEN - TEIL 2"
+id = "a-71"
+titel = "7. ERKRANKUNGEN - TEIL II"
 [[abschnitte.fragen]]
 frage = "Leber"
 fragentyp = "Checkbox"
