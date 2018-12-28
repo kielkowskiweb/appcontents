@@ -126,6 +126,11 @@ pflichtfeld = true
 bild = "/uploads/essegewohnheiten.png"
 titel = "4. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
+frage = "Essen Sie zum Mittagessen Kohlehydrate (Kartoffeln, Reis, Pasta)?"
+fragentyp = "Radio"
+optionen = ["Ja", "Nein", "Manchmal"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Ist das Abendessen Ihre Hauptmahlzeit?"
 fragentyp = "Radio"
 optionen = ["immer", "häufig", "eher nicht"]
