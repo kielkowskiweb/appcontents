@@ -151,10 +151,12 @@ optionen = ["Ja", "Nein", "manchmal"]
 pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/essegewohnheiten.png"
+id = "a-4"
 titel = "4. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
 frage = "Frühstücken Sie regelmäßig bevor Sie aus dem Haus gehen?"
 fragentyp = "Radio"
+id = "f-1"
 optionen = ["immer", "manchmal", "eher nicht", "nie"]
 pflichtfeld = true
 [[abschnitte.fragen]]
