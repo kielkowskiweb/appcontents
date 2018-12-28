@@ -90,6 +90,11 @@ optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Di
 bild = "/uploads/arbeit.jpg"
 titel = "3. ARBEIT UND BERUF"
 [[abschnitte.fragen]]
+frage = "Wie legen Sie Ihren Arbeitsweg zurück?"
+fragentyp = "Radio"
+optionen = ["Auto", "Öffentliche Verkehrsmittel", "Fahrrad", "ich arbeite überwiegend Zuhause", "Öffentliche Verkehrsmittel und Fahrrad"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Wie viele Kilometer legen Sie pro Jahr für den Weg zur Arbeit mit dem Rad zurück?"
 fragentyp = "Zahl"
 [[abschnitte.fragen]]
