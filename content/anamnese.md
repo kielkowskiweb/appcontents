@@ -126,6 +126,10 @@ pflichtfeld = true
 bild = "/uploads/essegewohnheiten.png"
 titel = "4. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
+frage = "Ist das Abendessen Ihre Hauptmahlzeit?"
+fragentyp = "Radio"
+optionen = ["immer", "häufig", "eher nicht"]
+[[abschnitte.fragen]]
 frage = "Essen Sie viel Süßigkeiten / salzige Snacks?"
 fragentyp = "Checkbox"
 optionen = ["täglich", "häufig", "selten"]
