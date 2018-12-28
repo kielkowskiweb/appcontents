@@ -66,6 +66,10 @@ pflichtfeld = true
 bild = "/uploads/diaeten_und_co.jpg"
 titel = "2. DIÄTEN & CO"
 [[abschnitte.fragen]]
+frage = "Wenn ja, wie?"
+fragentyp = "Checkbox"
+optionen = ["Low Carb", "Eiweißreiche Ernährung", "Kalorien zählen / Punkte zählen", "Fasten (auch Intervallfasten)", "Weniger Essen und viel Sport"]
+[[abschnitte.fragen]]
 frage = "Wie viele Diäten haben Sie in Ihrem Leben gemacht?"
 fragentyp = "Radio"
 optionen = ["mehr als 3 ", "weniger als 3"]
