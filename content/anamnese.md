@@ -283,6 +283,11 @@ bild = "/uploads/krankheiten_teil2.jpg"
 id = "a-71"
 titel = "7. ERKRANKUNGEN - TEIL II"
 [[abschnitte.fragen]]
+frage = "Magen"
+fragentyp = "Checkbox"
+id = "f-2"
+optionen = ["Geschwür (gutartig)", "Gastritis (Entzündung)", "Reflux (Sodbrennen)"]
+[[abschnitte.fragen]]
 frage = "Leber"
 fragentyp = "Checkbox"
 id = "f-1"
