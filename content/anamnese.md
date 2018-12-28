@@ -107,15 +107,18 @@ id = "f-5"
 optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Diät- oder Abnehmbemühungen!"]
 [[abschnitte]]
 bild = "/uploads/arbeit.jpg"
+id = "a-3"
 titel = "3. ARBEIT UND BERUF"
 [[abschnitte.fragen]]
 frage = "Wie legen Sie Ihren Arbeitsweg zurück?"
 fragentyp = "Radio"
+id = "f-1"
 optionen = ["Auto", "Öffentliche Verkehrsmittel", "Fahrrad", "ich arbeite überwiegend Zuhause", "Öffentliche Verkehrsmittel und Fahrrad"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Wie viele Kilometer legen Sie pro Jahr für den Weg zur Arbeit mit dem Rad zurück?"
 fragentyp = "Zahl"
+id = "f-2"
 [[abschnitte.fragen]]
 frage = "Üben Sie Ihren Beruf überwiegend sitzend oder  in Bewegung aus?"
 fragentyp = "Radio"
