@@ -66,6 +66,10 @@ pflichtfeld = true
 bild = "/uploads/diaeten_und_co.jpg"
 titel = "2. DIÄTEN & CO"
 [[abschnitte.fragen]]
+frage = "Wie lang war Ihre längste Diät?"
+fragentyp = "Radio"
+optionen = ["mehr als 2 Monate", "weniger als 2 Monate"]
+[[abschnitte.fragen]]
 frage = "Wie lange ist Ihre letzte Diät her?"
 fragentyp = "Radio"
 optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Diät- oder Abnehmbemühungen!"]
