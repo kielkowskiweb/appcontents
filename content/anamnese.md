@@ -7,6 +7,11 @@ intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung hande
 bild = "/uploads/eamo_1.png"
 titel = "1. ALLGEMEINES - TEIL I"
 [[abschnitte.fragen]]
+frage = "Fühlen Sie sich mit Ihrem Gewicht unwohl?"
+fragentyp = "Radio"
+optionen = ["Ja", "Nein"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Mein höchstes  Gewicht ist/war:"
 fragentyp = "Zahl"
 pflichtfeld = true
