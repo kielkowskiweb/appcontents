@@ -293,6 +293,7 @@ optionen = ["ja", "nein"]
 [[abschnitte.fragen]]
 frage = "Leiden Sie an Krankheiten?"
 fragentyp = "Radio"
+id = "f-9"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 
