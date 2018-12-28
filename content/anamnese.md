@@ -242,7 +242,7 @@ bild = "/uploads/krankheiten_teil1.jpg"
 id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte.fragen]]
-frage = "Ich leide an keinen Krankheiten"
+frage = "Leiden Sie an Krankheiten?"
 fragentyp = "Checkbox"
 id = "f-7"
 optionen = ["Ja", "Nein"]
