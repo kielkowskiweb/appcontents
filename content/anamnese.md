@@ -8,7 +8,7 @@ bild = "/uploads/sport.jpg"
 titel = "6. SPORT"
 [[abschnitte]]
 bild = "/uploads/krankheiten_teil1.jpg"
-titel = "ERKRANKUNGEN - TEIL 1"
+titel = "7. ERKRANKUNGEN - TEIL 1"
 [[abschnitte]]
 bild = "/uploads/krankheiten_teil2.jpg"
 titel = "ERKRANKUNGEN - TEIL 2"
