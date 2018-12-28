@@ -242,6 +242,11 @@ bild = "/uploads/krankheiten_teil1.jpg"
 id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte.fragen]]
+frage = "Herz-Kreislauf"
+fragentyp = "Checkbox"
+id = "f-4"
+optionen = ["Bluthochdruck", "Herzrhythmusstörungen", "Herzinsuffizienz (Herzschwäche)"]
+[[abschnitte.fragen]]
 frage = "Psychische Erkrankungen – Belastungen"
 fragentyp = "Checkbox"
 id = "f-5"
