@@ -151,7 +151,7 @@ optionen = ["Ja", "Nein", "manchmal"]
 pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/essegewohnheiten.png"
-id = "a-4"
+id = "a-40"
 titel = "4. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
 frage = "Frühstücken Sie regelmäßig bevor Sie aus dem Haus gehen?"
@@ -193,7 +193,7 @@ fragentyp = "Langtext"
 id = "f-7"
 [[abschnitte]]
 bild = "/uploads/schlafen.jpg"
-id = "a-5"
+id = "a-50"
 titel = "5. SCHLAFGEWOHNHEITEN"
 [[abschnitte.fragen]]
 frage = "Wie lange schlafen Sie?"
