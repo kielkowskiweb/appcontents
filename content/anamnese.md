@@ -126,6 +126,11 @@ pflichtfeld = true
 bild = "/uploads/essegewohnheiten.png"
 titel = "4. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
+frage = "Essen Sie regelmäßig bis 14 Uhr Mittagessen?"
+fragentyp = "Radio"
+optionen = ["immer", "machmal", "eher nicht"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Essen Sie zum Mittagessen Kohlehydrate (Kartoffeln, Reis, Pasta)?"
 fragentyp = "Radio"
 optionen = ["Ja", "Nein", "Manchmal"]
