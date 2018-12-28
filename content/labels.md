@@ -5,7 +5,7 @@ title = "Labels"
 [[label]]
 name = "Favoriten_Intro"
 [[label.sprachen]]
-content = "<h1>Favoriten erfassen</h1><p>Um Ihnen die Erfassung Ihrer täglichen Mahlzeiten so einfach wie möglich zu machen, können Sie hier Ihre Favoriten erfassen - Wählen Sie aus mehr als 600.000 Lebensmittel Ihre Lieblinge aus.</p>"
+content = "<h1>Favoriten erfassen</h1><p>Um Ihnen die Erfassung Ihrer täglichen Mahlzeiten so einfach wie möglich zu machen, können Sie hier Ihre Favoriten erfassen - Wählen Sie aus mehr als 200.000 Lebensmittel Ihre Lieblinge aus.</p>"
 sprache = "de"
 [[label]]
 name = "Abbrechen"
