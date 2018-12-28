@@ -217,6 +217,11 @@ bild = "/uploads/sport.jpg"
 id = "a-6"
 titel = "6. SPORT"
 [[abschnitte.fragen]]
+frage = "Wie oft treiben Sie Sport?"
+fragentyp = "Radio"
+id = "f-2"
+optionen = ["1x/Woche", "2x/Woche", "3x/Woche", "4x/Woche", "5x/Woche", "6x/Woche", "täglich"]
+[[abschnitte.fragen]]
 frage = "Pausieren Sie zwischen den Tagen an denen Sie Sport treiben, mindestens einen Tag?"
 fragentyp = "Radio"
 id = "f-3"
