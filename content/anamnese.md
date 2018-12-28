@@ -15,12 +15,14 @@ pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Geschlecht"
 fragentyp = "Radio"
+id = "f-2"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 erlaeuterung = "<p>*ACHTUNG: Nutzen Sie die APP im Falle einer Schwangerschaft nur unter ärztlicher Begleitung.</p>"
 frage = "Kinder"
 fragentyp = "Radio"
+id = "f-3"
 optionen = ["Ja", "Nein", "Schwanger*"]
 pflichtfeld = true
 [[abschnitte.fragen]]
