@@ -243,7 +243,7 @@ id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte.fragen]]
 frage = "Stoffwechselstörungen / Erkrankungen I"
-fragentyp = "Checkbox"
+fragentyp = "Radio"
 id = "f-1"
 optionen = ["Diabetes mellitus Typ I ", "Diabetes mellitus Typ II"]
 [[abschnitte.fragen]]
