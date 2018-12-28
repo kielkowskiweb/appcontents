@@ -159,6 +159,11 @@ fragentyp = "Langtext"
 [[abschnitte]]
 bild = "/uploads/schlafen.jpg"
 titel = "5. SCHLAFGEWOHNHEITEN"
+[[abschnitte.fragen]]
+frage = "Welche Art der Schlafstörung haben Sie?"
+fragentyp = "Radio"
+id = "f-"
+optionen = ["Durchschlafstörung", "Einschlafstörung", "Durchschlafstörung und Einschlafstörung"]
 [[abschnitte]]
 bild = "/uploads/sport.jpg"
 titel = "6. SPORT"
