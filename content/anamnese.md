@@ -7,6 +7,11 @@ intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung hande
 bild = "/uploads/eamo_1.png"
 titel = "1. ALLGEMEINES - TEIL I"
 [[abschnitte.fragen]]
+erlaeuterung = "<p>in cm</p>"
+frage = "Körpergröße"
+fragentyp = "Zahl"
+pflichtfeld = true
+[[abschnitte.fragen]]
 erlaeuterung = "<p>in kg</p>"
 frage = "Körpergewicht"
 fragentyp = "Zahl"
