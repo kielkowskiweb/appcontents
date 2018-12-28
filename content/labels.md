@@ -3,6 +3,21 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "Button_Anamnese_Fertig"
+[[label.sprachen]]
+content = "<p>Speichern</p>"
+sprache = "de"
+[[label]]
+name = "Button_Anamnese_Weiter"
+[[label.sprachen]]
+content = "<p>weiter</p>"
+sprache = "de"
+[[label]]
+name = "Button_Anamnese_Start"
+[[label.sprachen]]
+content = "<p>Los geht's</p>"
+sprache = "de"
+[[label]]
 name = "Anamnese"
 [[label.sprachen]]
 content = "<p>Anamnese</p>"
