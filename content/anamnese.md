@@ -6,11 +6,12 @@ intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung hande
 [[abschnitte]]
 titel = "1. ALLGEMEINES – TEIL II"
 [[abschnitte.fragen]]
+[[abschnitte.fragen]]
 erlaeuterung = "<p>(Mehrfachauswahl möglich)</p>"
 frage = "Wie leben Sie?"
 fragentyp = "Checkbox"
 optionen = ["Berufstätig ", "Arbeitssuchend", "Rentner", "Allein lebend", "In Partnerschaft lebend ohne Kinder im Haus", "In Partnerschaft lebend mit Kindern im Haus"]
-pflichtfeld = false
+pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/diaeten_und_co.jpg"
 titel = "2. DIÄTEN & CO"
