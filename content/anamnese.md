@@ -66,6 +66,11 @@ pflichtfeld = true
 bild = "/uploads/diaeten_und_co.jpg"
 titel = "2. DIÄTEN & CO"
 [[abschnitte.fragen]]
+frage = "Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?"
+fragentyp = "Radio"
+optionen = ["Ja", "Nein"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Wenn ja, wie?"
 fragentyp = "Checkbox"
 optionen = ["Low Carb", "Eiweißreiche Ernährung", "Kalorien zählen / Punkte zählen", "Fasten (auch Intervallfasten)", "Weniger Essen und viel Sport"]
