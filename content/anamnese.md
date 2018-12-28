@@ -217,6 +217,11 @@ bild = "/uploads/sport.jpg"
 id = "a-6"
 titel = "6. SPORT"
 [[abschnitte.fragen]]
+frage = "Pausieren Sie zwischen den Tagen an denen Sie Sport treiben, mindestens einen Tag?"
+fragentyp = "Radio"
+id = "f-3"
+optionen = ["Ja", "Nein", "unregelmäßig"]
+[[abschnitte.fragen]]
 frage = "Welche Art von Sport treiben Sie?"
 fragentyp = "Radio"
 id = "f-4"
