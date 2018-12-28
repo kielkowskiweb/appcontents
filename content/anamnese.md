@@ -126,12 +126,17 @@ pflichtfeld = true
 bild = "/uploads/essegewohnheiten.png"
 titel = "4. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
-frage = "Haben Sie andere Nahrungsmittelunverträglichkeiten?"
-fragentyp = "Langtext"
+frage = "Essen Sie viel Süßigkeiten / salzige Snacks?"
+fragentyp = "Checkbox"
+optionen = ["täglich", "häufig", "selten"]
+pflichtfeld = false
 [[abschnitte.fragen]]
 frage = "Welche Nahrungsunverträglichkeiten  haben Sie?"
 fragentyp = "Checkbox"
 optionen = ["Laktoseunverträglichkeit", "Glutenunverträglichkeit", "Fruktoseintoleranz", "Histaminunverträglichkeit"]
+[[abschnitte.fragen]]
+frage = "Haben Sie andere Nahrungsmittelunverträglichkeiten?"
+fragentyp = "Langtext"
 [[abschnitte]]
 bild = "/uploads/schlafen.jpg"
 titel = "5. SCHLAFGEWOHNHEITEN"
