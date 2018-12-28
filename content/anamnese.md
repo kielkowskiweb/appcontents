@@ -283,34 +283,34 @@ bild = "/uploads/krankheiten_teil2.jpg"
 id = "a-71"
 titel = "7. ERKRANKUNGEN - TEIL II"
 [[abschnitte.fragen]]
-frage = "Sonstige Tumor / Krebserkrankungen"
-fragentyp = "Text"
-id = "f-6"
-[[abschnitte.fragen]]
-frage = "Gelenkerkrankungen"
+frage = "Leber"
 fragentyp = "Checkbox"
-id = "f-5"
-optionen = ["Arthrose", "Rheuma", "Bandscheibenvorfälle", "Sonstige Gelenke"]
-[[abschnitte.fragen]]
-frage = "Nierenerkrankung"
-fragentyp = "Checkbox"
-id = "f-4"
-optionen = ["Niereninsuffizienz", "Nierensteine"]
-[[abschnitte.fragen]]
-frage = "Darm"
-fragentyp = "Checkbox"
-id = "f-3"
-optionen = ["Dünndarm", "Dickdarm", "Tumor", "Divertikel", "Morbus Crohn", "Colitis ulcerosa"]
+id = "f-1"
+optionen = ["Fettleber", "Erhöhte Leberwerte", "Zirrhose", "Hepatitis"]
 [[abschnitte.fragen]]
 frage = "Magen"
 fragentyp = "Checkbox"
 id = "f-2"
 optionen = ["Geschwür (gutartig)", "Gastritis (Entzündung)", "Reflux (Sodbrennen)"]
 [[abschnitte.fragen]]
-frage = "Leber"
+frage = "Darm"
 fragentyp = "Checkbox"
-id = "f-1"
-optionen = ["Fettleber", "Erhöhte Leberwerte", "Zirrhose", "Hepatitis"]
+id = "f-3"
+optionen = ["Dünndarm", "Dickdarm", "Tumor", "Divertikel", "Morbus Crohn", "Colitis ulcerosa"]
+[[abschnitte.fragen]]
+frage = "Nierenerkrankung"
+fragentyp = "Checkbox"
+id = "f-4"
+optionen = ["Niereninsuffizienz", "Nierensteine"]
+[[abschnitte.fragen]]
+frage = "Gelenkerkrankungen"
+fragentyp = "Checkbox"
+id = "f-5"
+optionen = ["Arthrose", "Rheuma", "Bandscheibenvorfälle", "Sonstige Gelenke"]
+[[abschnitte.fragen]]
+frage = "Sonstige Tumor / Krebserkrankungen"
+fragentyp = "Text"
+id = "f-6"
 [[abschnitte.fragen]]
 frage = "Nehmen Sie Medikamente?"
 fragentyp = "Radio"
