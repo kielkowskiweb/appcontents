@@ -242,6 +242,11 @@ bild = "/uploads/krankheiten_teil1.jpg"
 id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte.fragen]]
+frage = "Stoffwechselstörungen / Erkrankungen I"
+fragentyp = "Checkbox"
+id = "f-1"
+optionen = ["Diabetes mellitus Typ I "]
+[[abschnitte.fragen]]
 frage = "Stoffwechselstörungen / Erkrankungen II"
 fragentyp = "Radio"
 id = "f-2"
