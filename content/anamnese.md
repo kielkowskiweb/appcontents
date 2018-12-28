@@ -241,6 +241,12 @@ optionen = ["Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)", "Kr
 bild = "/uploads/krankheiten_teil1.jpg"
 id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
+[[abschnitte.fragen]]
+frage = "Ich leide an keinen Krankheiten"
+fragentyp = "Checkbox"
+id = "f-7"
+optionen = ["Ja", "Nein"]
+pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/krankheiten_teil2.jpg"
 id = "a-71"
