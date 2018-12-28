@@ -7,6 +7,11 @@ intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung hande
 bild = "/uploads/eamo_1.png"
 titel = "1. ALLGEMEINES - TEIL I"
 [[abschnitte.fragen]]
+frage = "Geschlecht"
+fragentyp = "Radio"
+optionen = ["Ja", "Nein"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 erlaeuterung = "<p>*ACHTUNG: Nutzen Sie die APP im Falle einer Schwangerschaft nur unter ärztlicher Begleitung.</p>"
 frage = "Kinder"
 fragentyp = "Radio"
