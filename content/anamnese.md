@@ -123,7 +123,12 @@ fragentyp = "Radio"
 optionen = ["Ja", "Nein", "manchmal"]
 pflichtfeld = true
 [[abschnitte]]
+bild = "/uploads/essegewohnheiten.png"
 titel = "4. ESSGEWOHNHEITEN"
+[[abschnitte.fragen]]
+frage = "Welche Nahrungsunverträglichkeiten  haben Sie?"
+fragentyp = "Checkbox"
+optionen = ["Laktoseunverträglichkeit", "Glutenunverträglichkeit", "Fruktoseintoleranz", "Histaminunverträglichkeit"]
 [[abschnitte]]
 bild = "/uploads/schlafen.jpg"
 titel = "5. SCHLAFGEWOHNHEITEN"
