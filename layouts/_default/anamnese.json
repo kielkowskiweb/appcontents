@@ -1,0 +1,33 @@
+{{ define "response" }}
+{
+  "intro_bild":"{{.Params.intro_bild}}",
+  "intro_text":"{{htmlEscape .Params.intro_text}}",
+ {{range $idxa,$a := .Params.abschnitte}}
+ "{{$a.id | default (string $idxa)}}":{
+   "img":"{{$a.bild | default ""}}",
+   "title":"{{htmlEscape ($a.titel | default "")}}",
+   "questions":{
+    {{range $idxf,$f := $a.fragen}}
+    "{{$f.id | default (string $idxf)}}":{
+      "q":"{{htmlEscape ($f.frage | default "")}}",
+      "t":"{{lower ($f.fragentyp | default "")}}",
+      "m":{{lower ($f.pflichtfeld | default false)}},
+      "i":"{{$f.bild | default ""}}",
+      {{with $f.optionen}}
+      "o":[
+        {{range $f.optionen}}
+          "{{htmlEscape (.)}}",
+        {{end}}
+        "#"
+      ],
+      {{end}}
+      "#":0
+    },
+    {{end}}
+    "#":0
+   }
+},
+ {{end}}
+ "#":0
+}
+{{ end }}
