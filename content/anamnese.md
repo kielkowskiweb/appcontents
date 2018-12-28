@@ -179,15 +179,18 @@ optionen = ["immer", "häufig", "eher nicht"]
 [[abschnitte.fragen]]
 frage = "Essen Sie viel Süßigkeiten / salzige Snacks?"
 fragentyp = "Checkbox"
+id = "f-5"
 optionen = ["täglich", "häufig", "selten"]
 pflichtfeld = false
 [[abschnitte.fragen]]
 frage = "Welche Nahrungsunverträglichkeiten  haben Sie?"
 fragentyp = "Checkbox"
+id = "f-6"
 optionen = ["Laktoseunverträglichkeit", "Glutenunverträglichkeit", "Fruktoseintoleranz", "Histaminunverträglichkeit"]
 [[abschnitte.fragen]]
 frage = "Haben Sie andere Nahrungsmittelunverträglichkeiten?"
 fragentyp = "Langtext"
+id = "f-7"
 [[abschnitte]]
 bild = "/uploads/schlafen.jpg"
 id = "a-5"
