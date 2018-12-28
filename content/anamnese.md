@@ -163,7 +163,7 @@ titel = "5. SCHLAFGEWOHNHEITEN"
 [[abschnitte.fragen]]
 frage = "Welche Art der Schlafstörung haben Sie?"
 fragentyp = "Radio"
-id = "f-"
+id = "f-3"
 optionen = ["Durchschlafstörung", "Einschlafstörung", "Durchschlafstörung und Einschlafstörung"]
 [[abschnitte]]
 bild = "/uploads/sport.jpg"
