@@ -8,7 +8,7 @@ bild = "/uploads/krankheiten_teil1.jpg"
 titel = "ERKRANKUNGEN - TEIL 1"
 [[abschnitte]]
 bild = "/uploads/krankheiten_teil2.jpg"
-titel = "Erkrankungen Teil 2"
+titel = "ERKRANKUNGEN - TEIL 2"
 [[abschnitte.fragen]]
 frage = "Leber"
 fragentyp = "Checkbox"
