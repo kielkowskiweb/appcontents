@@ -214,6 +214,7 @@ id = "f-3"
 optionen = ["Durchschlafstörung", "Einschlafstörung", "Durchschlafstörung und Einschlafstörung"]
 [[abschnitte]]
 bild = "/uploads/sport.jpg"
+id = "a-6"
 titel = "6. SPORT"
 [[abschnitte]]
 bild = "/uploads/krankheiten_teil1.jpg"
