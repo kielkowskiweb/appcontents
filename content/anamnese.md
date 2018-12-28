@@ -242,6 +242,43 @@ optionen = ["Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)", "Kr
 bild = "/uploads/krankheiten_teil1.jpg"
 id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
+[[abschnitte.fragen]]
+frage = "Stoffwechselstörungen / Erkrankungen I"
+fragentyp = "Radio"
+id = "f-1"
+optionen = ["Diabetes mellitus Typ I ", "Diabetes mellitus Typ II"]
+[[abschnitte.fragen]]
+frage = "Stoffwechselstörungen / Erkrankungen II"
+fragentyp = "Radio"
+id = "f-2"
+optionen = ["Schilddrüsen - Überfunktion", "Schilddrüsen - Unterfunktion"]
+pflichtfeld = false
+[[abschnitte.fragen]]
+frage = "Stoffwechselstörungen / Erkrankungen III"
+fragentyp = "Radio"
+id = "f-3"
+optionen = ["Hohes Cholesterin\t", "Hohe Blutfettwerte", "Hohe Leberwerte"]
+[[abschnitte.fragen]]
+frage = "Herz-Kreislauf"
+fragentyp = "Checkbox"
+id = "f-4"
+optionen = ["Bluthochdruck", "Herzrhythmusstörungen", "Herzinsuffizienz (Herzschwäche)"]
+[[abschnitte.fragen]]
+frage = "Psychische Erkrankungen – Belastungen"
+fragentyp = "Checkbox"
+id = "f-5"
+optionen = ["Depressionen / Angststörungen", "Alltagsstress", "Migräne"]
+[[abschnitte.fragen]]
+frage = "Durch was wird Ihr Alltagsstress ausgelöst?"
+fragentyp = "Radio"
+id = "f-6"
+optionen = ["Beruflich", "Privat", "Beides"]
+[[abschnitte.fragen]]
+frage = "Leiden Sie an Krankheiten?"
+fragentyp = "Checkbox"
+id = "f-7"
+optionen = ["Ja", "Nein"]
+pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/krankheiten_teil2.jpg"
 id = "a-71"
@@ -249,14 +286,22 @@ titel = "7. ERKRANKUNGEN - TEIL II"
 [[abschnitte.fragen]]
 frage = "Leber"
 fragentyp = "Checkbox"
+id = "f-1"
 optionen = ["Fettleber", "Erhöhte Leberwerte", "Zirrhose", "Hepatitis"]
 [[abschnitte.fragen]]
 frage = "Nehmen Sie Medikamente?"
 fragentyp = "Radio"
+id = "f-7"
 optionen = ["ja", "nein"]
 [[abschnitte.fragen]]
-frage = "Ich leide an keinen Krankheiten"
-fragentyp = "Checkbox"
-optionen = []
+frage = "Wenn ja, welche Medikamente nehmen Sie?"
+fragentyp = "Text"
+id = "f-8"
+[[abschnitte.fragen]]
+frage = "Leiden Sie an Krankheiten?"
+fragentyp = "Radio"
+id = "f-9"
+optionen = ["Ja", "Nein"]
+pflichtfeld = true
 
 +++
