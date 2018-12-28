@@ -40,11 +40,13 @@ pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Fühlen Sie sich mit Ihrem Gewicht unwohl?"
 fragentyp = "Radio"
+id = "f-6"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Mein höchstes  Gewicht ist/war:"
 fragentyp = "Zahl"
+id = "f-7"
 pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/eamo_2.png"
