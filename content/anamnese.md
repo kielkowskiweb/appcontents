@@ -66,6 +66,7 @@ optionen = ["weniger als 10 Zigaretten", "mehr als 10 Zigaretten"]
 [[abschnitte.fragen]]
 frage = "Waren Sie Raucher?"
 fragentyp = "Radio"
+id = "f-3"
 optionen = ["Ja, aufgehört vor mehr als 2 Jahren", "Ja, aufgehört vor weniger als 2 Jahren"]
 [[abschnitte.fragen]]
 erlaeuterung = "<p>(Mehrfachauswahl möglich)</p>"
