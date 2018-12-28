@@ -98,10 +98,12 @@ optionen = ["mehr als 3 ", "weniger als 3"]
 [[abschnitte.fragen]]
 frage = "Wie lang war Ihre längste Diät?"
 fragentyp = "Radio"
+id = "f-4"
 optionen = ["mehr als 2 Monate", "weniger als 2 Monate"]
 [[abschnitte.fragen]]
 frage = "Wie lange ist Ihre letzte Diät her?"
 fragentyp = "Radio"
+id = "f-5"
 optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Diät- oder Abnehmbemühungen!"]
 [[abschnitte]]
 bild = "/uploads/arbeit.jpg"
