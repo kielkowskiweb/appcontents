@@ -216,6 +216,11 @@ optionen = ["Durchschlafstörung", "Einschlafstörung", "Durchschlafstörung und
 bild = "/uploads/sport.jpg"
 id = "a-6"
 titel = "6. SPORT"
+[[abschnitte.fragen]]
+frage = "Welche Art von Sport treiben Sie?"
+fragentyp = "Radio"
+id = "f-4"
+optionen = ["Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)", "Krafttraining (z. B. Gerätesport, Gewichtstraining, Eigengewicht)", "Krafttraining + Ausdauer", "EMS / Powerplate"]
 [[abschnitte]]
 bild = "/uploads/krankheiten_teil1.jpg"
 titel = "7. ERKRANKUNGEN - TEIL I"
