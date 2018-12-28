@@ -90,6 +90,11 @@ optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Di
 bild = "/uploads/arbeit.jpg"
 titel = "3. ARBEIT UND BERUF"
 [[abschnitte.fragen]]
+frage = "Zu welchen Zeiten / Schichten arbeiten Sie?"
+fragentyp = "Radio"
+optionen = ["Tagschicht", "Früh/Spätschicht", "3-Schichtsystem", "Nur Nachtschicht"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Verlassen Sie vor 7:00 Uhr das Haus?"
 fragentyp = "Radio"
 optionen = ["Ja", "Nein"]
