@@ -291,8 +291,9 @@ frage = "Nehmen Sie Medikamente?"
 fragentyp = "Radio"
 optionen = ["ja", "nein"]
 [[abschnitte.fragen]]
-frage = "Ich leide an keinen Krankheiten"
-fragentyp = "Checkbox"
-optionen = []
+frage = "Leiden Sie an Krankheiten?"
+fragentyp = "Radio"
+optionen = ["Ja", "Nein"]
+pflichtfeld = true
 
 +++
