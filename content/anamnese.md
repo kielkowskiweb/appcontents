@@ -126,6 +126,9 @@ pflichtfeld = true
 bild = "/uploads/essegewohnheiten.png"
 titel = "4. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
+frage = "Haben Sie andere Nahrungsmittelunverträglichkeiten?"
+fragentyp = "Langtext"
+[[abschnitte.fragen]]
 frage = "Welche Nahrungsunverträglichkeiten  haben Sie?"
 fragentyp = "Checkbox"
 optionen = ["Laktoseunverträglichkeit", "Glutenunverträglichkeit", "Fruktoseintoleranz", "Histaminunverträglichkeit"]
