@@ -256,7 +256,7 @@ pflichtfeld = false
 frage = "Stoffwechselstörungen / Erkrankungen III"
 fragentyp = "Radio"
 id = "f-3"
-optionen = ["Hohes Cholesterin\t", "Hohe Blutfettwerte", "Hohe Leberwerte"]
+optionen = ["Hohe Blutfettwerte", "Hohe Leberwerte", "Hohes Cholesterin"]
 [[abschnitte.fragen]]
 frage = "Herz-Kreislauf"
 fragentyp = "Checkbox"
