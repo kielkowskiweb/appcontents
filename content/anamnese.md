@@ -161,6 +161,12 @@ bild = "/uploads/schlafen.jpg"
 id = "a-5"
 titel = "5. SCHLAFGEWOHNHEITEN"
 [[abschnitte.fragen]]
+frage = "Wie gut schlafen Sie?"
+fragentyp = "Checkbox"
+id = "f-2"
+optionen = ["gut", "schlecht", "überwiegend gut", "überwiegend schlecht"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Welche Art der Schlafstörung haben Sie?"
 fragentyp = "Radio"
 id = "f-3"
