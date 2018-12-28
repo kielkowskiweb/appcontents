@@ -50,10 +50,12 @@ id = "f-7"
 pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/eamo_2.png"
+id = "a-12"
 titel = "1. ALLGEMEINES – TEIL II"
 [[abschnitte.fragen]]
 frage = "Rauchen Sie?"
 fragentyp = "Radio"
+id = "f-1"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte.fragen]]
