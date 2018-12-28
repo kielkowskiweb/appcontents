@@ -90,6 +90,9 @@ optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Di
 bild = "/uploads/arbeit.jpg"
 titel = "3. ARBEIT UND BERUF"
 [[abschnitte.fragen]]
+frage = "Wie viele Kilometer legen Sie pro Jahr für den Weg zur Arbeit mit dem Rad zurück?"
+fragentyp = "Zahl"
+[[abschnitte.fragen]]
 frage = "Üben Sie Ihren Beruf überwiegend sitzend oder  in Bewegung aus?"
 fragentyp = "Radio"
 optionen = ["sitzend z. B. am PC"]
