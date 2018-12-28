@@ -30,6 +30,9 @@ fields:
     - type: text
       name: frage
       label: Frage
+    - type: boolean
+      name: pflichtfeld
+      label: Pflichtfeld
     - type: textarea
       name: erlaeuterung
       label: Erlaeuterung
