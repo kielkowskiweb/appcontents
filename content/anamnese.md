@@ -161,6 +161,12 @@ bild = "/uploads/schlafen.jpg"
 id = "a-5"
 titel = "5. SCHLAFGEWOHNHEITEN"
 [[abschnitte.fragen]]
+frage = "Wie lange schlafen Sie?"
+fragentyp = "Radio"
+id = "f-1"
+optionen = ["weniger als 6 h", "6 - 8 h", "mehr als 8 h"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Wie gut schlafen Sie?"
 fragentyp = "Checkbox"
 id = "f-2"
