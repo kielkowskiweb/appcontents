@@ -29,11 +29,13 @@ pflichtfeld = true
 erlaeuterung = "<p>in cm</p>"
 frage = "Körpergröße"
 fragentyp = "Zahl"
+id = "f-4"
 pflichtfeld = true
 [[abschnitte.fragen]]
 erlaeuterung = "<p>in kg</p>"
 frage = "Körpergewicht"
 fragentyp = "Zahl"
+id = "f-5"
 pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Fühlen Sie sich mit Ihrem Gewicht unwohl?"
