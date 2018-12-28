@@ -283,6 +283,10 @@ bild = "/uploads/krankheiten_teil2.jpg"
 id = "a-71"
 titel = "7. ERKRANKUNGEN - TEIL II"
 [[abschnitte.fragen]]
+frage = "Sonstige Tumor / Krebserkrankungen"
+fragentyp = "Text"
+id = "f-6"
+[[abschnitte.fragen]]
 frage = "Gelenkerkrankungen"
 fragentyp = "Checkbox"
 id = "f-5"
