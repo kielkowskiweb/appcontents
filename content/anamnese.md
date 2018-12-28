@@ -50,7 +50,7 @@ id = "f-7"
 pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/eamo_2.png"
-id = "a-12"
+id = "a-11"
 titel = "1. ALLGEMEINES – TEIL II"
 [[abschnitte.fragen]]
 frage = "Rauchen Sie?"
@@ -77,7 +77,7 @@ optionen = ["Berufstätig ", "Arbeitssuchend", "Rentner", "Allein lebend", "In P
 pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/diaeten_und_co.jpg"
-id = "a-2"
+id = "a-20"
 titel = "2. DIÄTEN & CO"
 [[abschnitte.fragen]]
 frage = "Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?"
@@ -107,7 +107,7 @@ id = "f-5"
 optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Diät- oder Abnehmbemühungen!"]
 [[abschnitte]]
 bild = "/uploads/arbeit.jpg"
-id = "a-3"
+id = "a-30"
 titel = "3. ARBEIT UND BERUF"
 [[abschnitte.fragen]]
 frage = "Wie legen Sie Ihren Arbeitsweg zurück?"
