@@ -5,6 +5,12 @@ intro_bild = "/uploads/anamnese_start.jpg"
 intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung handelt, die sich auf Ihren persönlichen Stoffwechsel beziehen soll, bitten wir Sie folgende Fragen so genau wie möglich zu beantworten.</p><p>Alle im folgenden benannten Bereiche können sich negativ auf den Stoffwechsel auswirken und je besser wir diesen kennen, um so größer unsere Möglichkeiten Ihnen helfen zu können.</p><p>Nehmen Sie sich bitte diese 10 Minuten Zeit!!</p><p>Vertrauen Sie darauf, das wir Ihre Daten nur zur Auswertung und nicht an Dritte weitergeben und absolut vertraulich behandeln. Ein gesunder Stoffwechsel hat nicht nur etwas mit Ernährungs sondern mit sehr vielen Faktoren, daher müssen wir auch Ihr gesamtes Umfeld beleuchten.</p>"
 [[abschnitte]]
 titel = "1. ALLGEMEINES – TEIL II"
+[[abschnitte.fragen]]
+erlaeuterung = "<p>(Mehrfachauswahl möglich)</p>"
+frage = "Wie leben Sie?"
+fragentyp = "Checkbox"
+optionen = ["Berufstätig ", "Arbeitssuchend", "Rentner", "Allein lebend", "In Partnerschaft lebend ohne Kinder im Haus", "In Partnerschaft lebend mit Kindern im Haus"]
+pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/diaeten_und_co.jpg"
 titel = "2. DIÄTEN & CO"
