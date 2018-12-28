@@ -158,6 +158,7 @@ frage = "Haben Sie andere Nahrungsmittelunverträglichkeiten?"
 fragentyp = "Langtext"
 [[abschnitte]]
 bild = "/uploads/schlafen.jpg"
+id = "a-5"
 titel = "5. SCHLAFGEWOHNHEITEN"
 [[abschnitte.fragen]]
 frage = "Welche Art der Schlafstörung haben Sie?"
