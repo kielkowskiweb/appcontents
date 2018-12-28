@@ -82,15 +82,18 @@ titel = "2. DIÄTEN & CO"
 [[abschnitte.fragen]]
 frage = "Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?"
 fragentyp = "Radio"
+id = "f-1"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Wenn ja, wie?"
 fragentyp = "Checkbox"
+id = "f-2"
 optionen = ["Low Carb", "Eiweißreiche Ernährung", "Kalorien zählen / Punkte zählen", "Fasten (auch Intervallfasten)", "Weniger Essen und viel Sport"]
 [[abschnitte.fragen]]
 frage = "Wie viele Diäten haben Sie in Ihrem Leben gemacht?"
 fragentyp = "Radio"
+id = "f-3"
 optionen = ["mehr als 3 ", "weniger als 3"]
 [[abschnitte.fragen]]
 frage = "Wie lang war Ihre längste Diät?"
