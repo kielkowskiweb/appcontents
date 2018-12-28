@@ -217,6 +217,12 @@ bild = "/uploads/sport.jpg"
 id = "a-6"
 titel = "6. SPORT"
 [[abschnitte.fragen]]
+frage = "Treiben Sie Sport?"
+fragentyp = "Radio"
+id = "f-1"
+optionen = ["Ja", "Nein"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Wie oft treiben Sie Sport?"
 fragentyp = "Radio"
 id = "f-2"
