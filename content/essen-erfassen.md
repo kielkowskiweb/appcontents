@@ -24,7 +24,7 @@ sprache = "de"
 [[label]]
 name = "Button_Mahlzeit_speichern"
 [[label.sprachen]]
-content = "<p>Mahlzeit speichern</p>"
+content = "<p>Lebensmittel speichern</p>"
 sprache = "de"
 [[label]]
 name = "Label_Uhrzeit"
