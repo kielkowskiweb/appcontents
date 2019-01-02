@@ -57,12 +57,14 @@ fragentyp = "Zahl"
 id = "f-5"
 pflichtfeld = true
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Fühlen Sie sich mit Ihrem Gewicht unwohl?"
 fragentyp = "Radio"
 id = "f-6"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Mein höchstes  Gewicht (in kg) ist/war:"
 fragentyp = "Zahl"
 id = "f-7"
