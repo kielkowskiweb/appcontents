@@ -181,12 +181,14 @@ bild = "/uploads/essegewohnheiten.png"
 id = "a-40"
 titel = "4. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Frühstücken Sie regelmäßig bevor Sie aus dem Haus gehen?"
 fragentyp = "Radio"
 id = "f-1"
 optionen = ["immer", "manchmal", "eher nicht", "nie"]
 pflichtfeld = true
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Essen Sie regelmäßig bis 14 Uhr Mittagessen?"
 fragentyp = "Radio"
 id = "f-2"
