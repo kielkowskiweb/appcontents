@@ -225,6 +225,7 @@ bild = "/uploads/schlafen_222.jpg"
 id = "a-50"
 titel = "5. SCHLAFGEWOHNHEITEN"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Wie lange schlafen Sie?"
 fragentyp = "Radio"
 id = "f-1"
