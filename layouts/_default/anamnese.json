@@ -6,6 +6,7 @@
  "{{$a.id | default (string $idxa)}}":{
    "img":"{{$a.bild | default ""}}",
    "title":"{{htmlEscape ($a.titel | default "")}}",
+   "intro":"{{htmlEscape ($a.intro | default "")}}",
    "questions":{
     {{range $idxf,$f := $a.fragen}}
     "{{$f.id | default (string $idxf)}}":{
