@@ -356,6 +356,7 @@ frage = "Wenn ja, welche Medikamente nehmen Sie?"
 fragentyp = "Langtext"
 id = "f-8"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Leiden Sie an Krankheiten?"
 fragentyp = "Radio"
 id = "f-9"
