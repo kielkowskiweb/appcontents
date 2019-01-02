@@ -3,6 +3,11 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "Hinweis_Pflichtfelder"
+[[label.sprachen]]
+content = "<p>Bitte füllen Sie alle Pflichtfelder.</p>"
+sprache = "de"
+[[label]]
 name = "Button_Anamnese_Fertig"
 [[label.sprachen]]
 content = "<p>Speichern</p>"
