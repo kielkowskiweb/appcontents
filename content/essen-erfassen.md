@@ -39,7 +39,7 @@ sprache = "de"
 [[label]]
 name = "Label_Mahlzeit"
 [[label.sprachen]]
-content = "<p>Mahlzeit</p>"
+content = "<p>Lebensmittel</p>"
 sprache = "de"
 [[label]]
 name = "Label_Lebensmittel_auswaehlen"
