@@ -102,6 +102,7 @@ bild = "/uploads/diaeten_und_co-1.jpg"
 id = "a-20"
 titel = "2. DIÄTEN & CO"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?"
 fragentyp = "Radio"
 id = "f-1"
