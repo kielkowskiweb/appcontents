@@ -334,7 +334,7 @@ id = "f-7"
 optionen = ["ja", "nein"]
 [[abschnitte.fragen]]
 frage = "Wenn ja, welche Medikamente nehmen Sie?"
-fragentyp = "Text"
+fragentyp = "Langtext"
 id = "f-8"
 [[abschnitte.fragen]]
 frage = "Leiden Sie an Krankheiten?"
