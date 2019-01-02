@@ -70,6 +70,13 @@ fields:
       label: Bild
     config:
       labelField: frage
+  - type: textarea
+    name: intro
+    label: Intro
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
   config:
     labelField: titel
 pages:
