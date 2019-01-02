@@ -65,7 +65,7 @@ fragentyp = "Zahl"
 id = "f-7"
 pflichtfeld = true
 [[abschnitte]]
-bild = "/uploads/eamo_2.png"
+bild = "/uploads/eamo_a11.png"
 id = "a-11"
 titel = "1. ALLGEMEINES – TEIL II"
 [[abschnitte.fragen]]
