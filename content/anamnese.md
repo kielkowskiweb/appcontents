@@ -345,6 +345,7 @@ pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/geschafft.jpg"
 id = "a-80"
+intro = "<h1>GESCHAFFT</h1><p><br></p><p>Vielen Dank, daß Sie sich die Zeit genommen haben.<br></p><p>Sie können Ihren Fragebogen jetzt absenden und mit der Lebensmittelerfassung beginnen.</p>"
 titel = "GESCHAFFT"
 
 +++
