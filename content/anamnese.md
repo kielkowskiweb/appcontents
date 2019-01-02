@@ -140,7 +140,7 @@ id = "f-1"
 optionen = ["Auto", "Öffentliche Verkehrsmittel", "Fahrrad", "ich arbeite überwiegend Zuhause", "Öffentliche Verkehrsmittel und Fahrrad"]
 pflichtfeld = true
 [[abschnitte.fragen]]
-frage = "Wie viele Kilometer legen Sie pro Jahr für den Weg zur Arbeit mit dem Rad zurück?"
+frage = "Wie viele Kilometer legen Sie pro Tag einfache Strecke für den Weg zur Arbeit mit dem Rad zurück?"
 fragentyp = "Zahl"
 id = "f-2"
 [[abschnitte.fragen]]
