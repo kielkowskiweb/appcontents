@@ -8,7 +8,7 @@ layout = "anamnese"
 id = "a-00"
 titel = "URSACHEN UND ZIEL"
 [[abschnitte.fragen]]
-bild = "/uploads/eamo_akreis.png"
+bild = "/uploads/kreis_neu_eamo.png"
 frage = "Was denken Sie könnte die Ursache für Ihr  Gewichtsproblem sein?"
 fragentyp = "Checkbox"
 id = "f-1"
