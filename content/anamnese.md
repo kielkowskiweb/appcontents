@@ -155,7 +155,7 @@ frage = "Zu welchen Zeiten / Schichten arbeiten Sie?"
 fragentyp = "Radio"
 id = "f-4"
 optionen = ["Tagschicht", "Früh/Spätschicht", "3-Schichtsystem", "Nur Nachtschicht"]
-pflichtfeld = true
+pflichtfeld = false
 [[abschnitte.fragen]]
 frage = "Verlassen Sie vor 7:00 Uhr das Haus?"
 fragentyp = "Radio"
