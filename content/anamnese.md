@@ -38,20 +38,20 @@ id = "f-2"
 optionen = ["Männlich", "Weiblich"]
 pflichtfeld = true
 [[abschnitte.fragen]]
-erlaeuterung = "<p>*ACHTUNG: Nutzen Sie die APP im Falle einer Schwangerschaft nur unter ärztlicher Begleitung.</p>"
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p><p><strong>ACHTUNG: Nutzen Sie die APP im Falle einer Schwangerschaft nur unter ärztlicher Begleitung.</strong></p>"
 frage = "Kinder"
 fragentyp = "Radio"
 id = "f-3"
 optionen = ["Ja", "Nein", "Schwanger*"]
 pflichtfeld = true
 [[abschnitte.fragen]]
-erlaeuterung = "<p>in cm</p>"
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Körpergröße in cm"
 fragentyp = "Zahl"
 id = "f-4"
 pflichtfeld = true
 [[abschnitte.fragen]]
-erlaeuterung = "<p>in kg</p>"
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Körpergewicht in kg"
 fragentyp = "Zahl"
 id = "f-5"
