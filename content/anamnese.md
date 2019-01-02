@@ -290,7 +290,7 @@ id = "f-6"
 optionen = ["Beruflich", "Privat", "Beides"]
 [[abschnitte.fragen]]
 frage = "Leiden Sie an Krankheiten?"
-fragentyp = "Checkbox"
+fragentyp = "Radio"
 id = "f-7"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
