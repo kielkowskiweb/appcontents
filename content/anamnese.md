@@ -345,10 +345,12 @@ frage = "Sonstige Tumor / Krebserkrankungen"
 fragentyp = "Text"
 id = "f-6"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Nehmen Sie Medikamente?"
 fragentyp = "Radio"
 id = "f-7"
 optionen = ["ja", "nein"]
+pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Wenn ja, welche Medikamente nehmen Sie?"
 fragentyp = "Langtext"
