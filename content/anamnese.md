@@ -163,13 +163,15 @@ id = "f-5"
 optionen = ["Ja", "Nein"]
 pflichtfeld = false
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Frühstücken Sie Zuhause vor der Arbeit?"
 fragentyp = "Radio"
 id = "f-6"
 optionen = ["Ja", "Nein", "manchmal"]
 pflichtfeld = true
 [[abschnitte.fragen]]
-frage = "Essen Sie zum Frühstück Kohlehydrate  (Brot, Müsli, Getreide) ?"
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
+frage = "Essen Sie zum Frühstück Kohlehydrate (Brot, Müsli, Getreide) ?"
 fragentyp = "Radio"
 id = "f-7"
 optionen = ["Ja", "Nein", "manchmal"]
