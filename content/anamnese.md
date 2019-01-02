@@ -295,7 +295,7 @@ id = "f-7"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte]]
-bild = "/uploads/krankheiten_teil2.jpg"
+bild = "/uploads/krankheiten_neu-medi.jpg"
 id = "a-71"
 titel = "7. ERKRANKUNGEN - TEIL II"
 [[abschnitte.fragen]]
