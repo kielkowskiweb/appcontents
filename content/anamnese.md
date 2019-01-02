@@ -43,7 +43,7 @@ optionen = ["Ja", "Nein", "Schwanger*"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 erlaeuterung = "<p>in cm</p>"
-frage = "Körpergröße"
+frage = "Körpergröße in cm"
 fragentyp = "Zahl"
 id = "f-4"
 pflichtfeld = true
