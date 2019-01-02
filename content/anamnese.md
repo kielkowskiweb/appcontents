@@ -139,7 +139,7 @@ id = "f-2"
 frage = "Üben Sie Ihren Beruf überwiegend sitzend oder  in Bewegung aus?"
 fragentyp = "Radio"
 id = "f-3"
-optionen = ["sitzend z. B. am PC"]
+optionen = ["sitzend z. B. am PC", "in Bewegung z. B. Verkäufer/Handwerker"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Zu welchen Zeiten / Schichten arbeiten Sie?"
