@@ -144,12 +144,12 @@ frage = "Wie viele Kilometer legen Sie pro Jahr für den Weg zur Arbeit mit dem 
 fragentyp = "Zahl"
 id = "f-2"
 [[abschnitte.fragen]]
-erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
+erlaeuterung = "<p></p>"
 frage = "Üben Sie Ihren Beruf überwiegend sitzend oder in Bewegung aus?"
 fragentyp = "Radio"
 id = "f-3"
 optionen = ["sitzend z. B. am PC", "in Bewegung z. B. Verkäufer/Handwerker"]
-pflichtfeld = true
+pflichtfeld = false
 [[abschnitte.fragen]]
 frage = "Zu welchen Zeiten / Schichten arbeiten Sie?"
 fragentyp = "Radio"
@@ -161,7 +161,7 @@ frage = "Verlassen Sie vor 7:00 Uhr das Haus?"
 fragentyp = "Radio"
 id = "f-5"
 optionen = ["Ja", "Nein"]
-pflichtfeld = true
+pflichtfeld = false
 [[abschnitte.fragen]]
 frage = "Frühstücken Sie Zuhause?"
 fragentyp = "Radio"
