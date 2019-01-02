@@ -25,11 +25,13 @@ bild = "/uploads/eamo_a1.png"
 id = "a-10"
 titel = "1. ALLGEMEINES - TEIL I"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Alter:"
 fragentyp = "Zahl"
 id = "f-1"
 pflichtfeld = true
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Geschlecht"
 fragentyp = "Radio"
 id = "f-2"
