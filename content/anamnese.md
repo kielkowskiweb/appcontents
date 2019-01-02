@@ -74,6 +74,7 @@ bild = "/uploads/eamo_a11.png"
 id = "a-11"
 titel = "1. ALLGEMEINES – TEIL II"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Rauchen Sie?"
 fragentyp = "Radio"
 id = "f-1"
