@@ -248,6 +248,7 @@ bild = "/uploads/sport.jpg"
 id = "a-60"
 titel = "6. SPORT"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Treiben Sie Sport?"
 fragentyp = "Radio"
 id = "f-1"
