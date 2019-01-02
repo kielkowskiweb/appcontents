@@ -20,7 +20,7 @@ id = "f-2"
 optionen = ["Gewichtsstabilisierung", "Gewichtsreduktion", "Gewichtszunahme"]
 pflichtfeld = true
 [[abschnitte]]
-bild = "/uploads/eamo_1.png"
+bild = "/uploads/eamo_a1.png"
 id = "a-10"
 titel = "1. ALLGEMEINES - TEIL I"
 [[abschnitte.fragen]]
