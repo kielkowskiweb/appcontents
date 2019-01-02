@@ -343,6 +343,7 @@ id = "f-9"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte]]
+bild = "/uploads/geschafft.jpg"
 id = "a-80"
 titel = "GESCHAFFT"
 
