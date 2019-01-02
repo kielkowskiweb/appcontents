@@ -199,7 +199,7 @@ frage = "Essen Sie zum Mittagessen Kohlehydrate (Kartoffeln, Reis, Pasta)?"
 fragentyp = "Radio"
 id = "f-3"
 optionen = ["Ja", "Nein", "Manchmal"]
-pflichtfeld = true
+pflichtfeld = false
 [[abschnitte.fragen]]
 frage = "Ist das Abendessen Ihre Hauptmahlzeit?"
 fragentyp = "Radio"
