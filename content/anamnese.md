@@ -219,7 +219,7 @@ optionen = ["weniger als 6 h", "6 - 8 h", "mehr als 8 h"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Wie gut schlafen Sie?"
-fragentyp = "Checkbox"
+fragentyp = "Radio"
 id = "f-2"
 optionen = ["gut", "schlecht", "überwiegend gut", "überwiegend schlecht"]
 pflichtfeld = true
