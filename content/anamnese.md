@@ -127,7 +127,7 @@ optionen = ["mehr als 2 Monate", "weniger als 2 Monate"]
 frage = "Wie lange liegt Ihre letzte Diät zurück"
 fragentyp = "Radio"
 id = "f-5"
-optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Diät- oder Abnehmbemühungen!"]
+optionen = ["mehr als 2 Jahre", "1 - 2 Jahre", "weniger als 1 Jahr", "Ich befinde mich in Diät- oder Abnehmbemühungen!"]
 [[abschnitte]]
 bild = "/uploads/arbeit.jpg"
 id = "a-30"
