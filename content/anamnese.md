@@ -208,7 +208,7 @@ frage = "Haben Sie andere Nahrungsmittelunverträglichkeiten?"
 fragentyp = "Langtext"
 id = "f-7"
 [[abschnitte]]
-bild = "/uploads/schlafen.jpg"
+bild = "/uploads/schlafen_222.jpg"
 id = "a-50"
 titel = "5. SCHLAFGEWOHNHEITEN"
 [[abschnitte.fragen]]
