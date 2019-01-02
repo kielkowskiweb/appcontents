@@ -49,7 +49,7 @@ id = "f-4"
 pflichtfeld = true
 [[abschnitte.fragen]]
 erlaeuterung = "<p>in kg</p>"
-frage = "Körpergewicht"
+frage = "Körpergewicht in kg"
 fragentyp = "Zahl"
 id = "f-5"
 pflichtfeld = true
@@ -60,7 +60,7 @@ id = "f-6"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte.fragen]]
-frage = "Mein höchstes  Gewicht ist/war:"
+frage = "Mein höchstes  Gewicht (in kg) ist/war:"
 fragentyp = "Zahl"
 id = "f-7"
 pflichtfeld = true
