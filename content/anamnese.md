@@ -254,7 +254,7 @@ fragentyp = "Radio"
 id = "f-4"
 optionen = ["Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)", "Krafttraining (z. B. Gerätesport, Gewichtstraining, Eigengewicht)", "Krafttraining + Ausdauer", "EMS / Powerplate"]
 [[abschnitte]]
-bild = "/uploads/krankheiten_teil1-1.jpg"
+bild = "/uploads/eamo_krank_neu.jpg"
 id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte.fragen]]
