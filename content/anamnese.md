@@ -91,7 +91,7 @@ fragentyp = "Radio"
 id = "f-3"
 optionen = ["Ja, aufgehört vor mehr als 2 Jahren", "Ja, aufgehört vor weniger als 2 Jahren"]
 [[abschnitte.fragen]]
-erlaeuterung = "<p>(Mehrfachauswahl möglich)</p>"
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Wie leben Sie?"
 fragentyp = "Checkbox"
 id = "f-4"
