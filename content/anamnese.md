@@ -2,7 +2,7 @@
 contents = []
 date = "2018-12-27T22:01:37+00:00"
 intro_bild = "/uploads/eamo_a00.png"
-intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung handelt, die sich auf Ihren persönlichen Stoffwechsel beziehen soll, bitten wir Sie folgende Fragen so genau wie möglich zu beantworten.</p><p>Alle im folgenden benannten Bereiche können sich negativ auf den Stoffwechsel auswirken und je besser wir diesen kennen, um so größer unsere Möglichkeiten Ihnen helfen zu können.</p><p>Nehmen Sie sich bitte diese 10 Minuten Zeit!!</p><p>Vertrauen Sie darauf, das wir Ihre Daten nur zur Auswertung und nicht an Dritte weitergeben und absolut vertraulich behandeln. Ein gesunder Stoffwechsel hat nicht nur etwas mit Ernährung zu tun sondern mit sehr vielen Faktoren, daher müssen wir auch Ihr gesamtes Umfeld beleuchten.</p><ul><li><p><img src=\"/uploads/kreis.jpg\">Radiobuttons = Hier können Sie nur eine Option auswählen</p></li><li><p><img src=\"/uploads/checkbox_neu.jpg\">Checkboxen = Hier können Sie mehrere Optionen auswählen</p></li><li><p><img src=\"/uploads/eingabefeld.jpg\">Eingabefelder = Bitte geben Sie hier nur Zahlen ohne Sonderzeichen ein</p></li></ul>"
+intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung handelt, die sich auf Ihren persönlichen Stoffwechsel beziehen soll, bitten wir Sie folgende Fragen so genau wie möglich zu beantworten.</p><p>Alle im folgenden benannten Bereiche können sich negativ auf den Stoffwechsel auswirken und je besser wir diesen kennen, um so größer sind unsere Möglichkeiten Ihnen helfen zu können.</p><p>Nehmen Sie sich bitte diese 10 Minuten Zeit!!</p><p>Vertrauen Sie darauf, das wir Ihre Daten nur zur Auswertung und nicht an Dritte weitergeben und absolut vertraulich behandeln. Ein gesunder Stoffwechsel hat nicht nur etwas mit Ernährung zu tun sondern mit sehr vielen Faktoren, daher müssen wir auch Ihr gesamtes Umfeld beleuchten.</p><ul><li><p><img src=\"/uploads/kreis.jpg\">Radiobuttons = Hier können Sie nur eine Option auswählen</p></li><li><p><img src=\"/uploads/checkbox_neu.jpg\">Checkboxen = Hier können Sie mehrere Optionen auswählen</p></li><li><p><img src=\"/uploads/eingabefeld.jpg\">Eingabefelder = Bitte geben Sie hier nur Zahlen ohne Sonderzeichen ein</p></li><li><p><em>* Pflichtfelder = Diese Felder sind Pflichtfelder und müssen ausgefüllt werden</em></p></li></ul>"
 layout = "anamnese"
 [[abschnitte]]
 id = "a-00"
@@ -345,7 +345,7 @@ pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/geschafft.jpg"
 id = "a-80"
-intro = "<h1>GESCHAFFT</h1><p><br></p><p>Vielen Dank, daß Sie sich die Zeit genommen haben.<br></p><p>Sie können Ihren Fragebogen jetzt absenden und mit der Lebensmittelerfassung beginnen.</p>"
+intro = "<h1>GESCHAFFT</h1><p>Vielen Dank, daß Sie sich die Zeit genommen haben.</p><p>Sie können Ihren Fragebogen jetzt absenden und mit der Lebensmittelerfassung beginnen.</p>"
 titel = "GESCHAFFT"
 
 +++
