@@ -10,7 +10,7 @@ sprache = "de"
 [[label]]
 name = "Button_Anamnese_Fertig"
 [[label.sprachen]]
-content = "<p>Speichern</p>"
+content = "<p>Senden</p>"
 sprache = "de"
 [[label]]
 name = "Button_Anamnese_Weiter"
