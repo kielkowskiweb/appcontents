@@ -11,6 +11,7 @@
     {{range $idxf,$f := $a.fragen}}
     "{{$f.id | default (string $idxf)}}":{
       "q":"{{htmlEscape ($f.frage | default "")}}",
+      "e":"{{htmlEscape ($f.erlaeuterung | default "")}}",
       "t":"{{lower ($f.fragentyp | default "")}}",
       "m":{{lower ($f.pflichtfeld | default false)}},
       "i":"{{$f.bild | default ""}}",
