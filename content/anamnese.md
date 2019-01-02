@@ -124,7 +124,7 @@ fragentyp = "Radio"
 id = "f-4"
 optionen = ["mehr als 2 Monate", "weniger als 2 Monate"]
 [[abschnitte.fragen]]
-frage = "Wie lange ist Ihre letzte Diät her?"
+frage = "Wie lange liegt Ihre letzte Diät zurück"
 fragentyp = "Radio"
 id = "f-5"
 optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Diät- oder Abnehmbemühungen!"]
