@@ -14,7 +14,7 @@ fragentyp = "Checkbox"
 id = "f-1"
 optionen = ["Bewegung", "Diäten", "Krankheiten", "Essen", "Stress", "Schlafstörungen"]
 [[abschnitte.fragen]]
-erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen</em></p>"
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Was wollen Sie erreichen?"
 fragentyp = "Radio"
 id = "f-2"
