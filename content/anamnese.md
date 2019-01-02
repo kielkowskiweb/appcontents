@@ -92,7 +92,7 @@ id = "f-4"
 optionen = ["Berufstätig ", "Arbeitssuchend", "Rentner", "Allein lebend", "In Partnerschaft lebend ohne Kinder im Haus", "In Partnerschaft lebend mit Kindern im Haus"]
 pflichtfeld = true
 [[abschnitte]]
-bild = "/uploads/diaeten_und_co.jpg"
+bild = "/uploads/diaeten_und_co-1.jpg"
 id = "a-20"
 titel = "2. DIÄTEN & CO"
 [[abschnitte.fragen]]
