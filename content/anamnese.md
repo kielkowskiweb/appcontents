@@ -144,7 +144,8 @@ frage = "Wie viele Kilometer legen Sie pro Jahr für den Weg zur Arbeit mit dem 
 fragentyp = "Zahl"
 id = "f-2"
 [[abschnitte.fragen]]
-frage = "Üben Sie Ihren Beruf überwiegend sitzend oder  in Bewegung aus?"
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
+frage = "Üben Sie Ihren Beruf überwiegend sitzend oder in Bewegung aus?"
 fragentyp = "Radio"
 id = "f-3"
 optionen = ["sitzend z. B. am PC", "in Bewegung z. B. Verkäufer/Handwerker"]
