@@ -163,7 +163,7 @@ id = "f-5"
 optionen = ["Ja", "Nein"]
 pflichtfeld = false
 [[abschnitte.fragen]]
-frage = "Frühstücken Sie Zuhause?"
+frage = "Frühstücken Sie Zuhause vor der Arbeit?"
 fragentyp = "Radio"
 id = "f-6"
 optionen = ["Ja", "Nein", "manchmal"]
