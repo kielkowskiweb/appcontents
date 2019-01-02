@@ -133,6 +133,7 @@ bild = "/uploads/arbeit.jpg"
 id = "a-30"
 titel = "3. ARBEIT UND BERUF"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Wie legen Sie Ihren Arbeitsweg zurück?"
 fragentyp = "Radio"
 id = "f-1"
