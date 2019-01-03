@@ -321,11 +321,13 @@ bild = "/uploads/krankheiten_neu-medi.jpg"
 id = "a-71"
 titel = "7. ERKRANKUNGEN - TEIL II"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Leber"
 fragentyp = "Checkbox"
 id = "f-1"
 optionen = ["Fettleber", "Erhöhte Leberwerte", "Zirrhose", "Hepatitis"]
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Magen"
 fragentyp = "Checkbox"
 id = "f-2"
