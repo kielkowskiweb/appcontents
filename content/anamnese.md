@@ -93,9 +93,9 @@ optionen = ["Ja, aufgehört vor mehr als 2 Jahren", "Ja, aufgehört vor weniger 
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Wie leben Sie?"
-fragentyp = "Checkbox"
+fragentyp = "Radio"
 id = "f-4"
-optionen = ["Berufstätig ", "Arbeitssuchend", "Rentner", "Allein lebend", "In Partnerschaft lebend ohne Kinder im Haus", "In Partnerschaft lebend mit Kindern im Haus"]
+optionen = ["Allein lebend", "In Partnerschaft lebend ohne Kinder im Haus", "In Partnerschaft lebend mit Kindern im Haus"]
 pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/diaeten_und_co-1.jpg"
