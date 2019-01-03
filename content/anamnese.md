@@ -293,6 +293,7 @@ fragentyp = "Radio"
 id = "f-3"
 optionen = ["Hohe Blutfettwerte", "Hohe Leberwerte", "Hohes Cholesterin"]
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Herz-Kreislauf"
 fragentyp = "Checkbox"
 id = "f-4"
