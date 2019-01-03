@@ -123,7 +123,7 @@ optionen = ["Low Carb", "Eiweißreiche Ernährung", "Kalorien zählen / Punkte z
 frage = "Wie viele Diäten haben Sie in Ihrem Leben gemacht?"
 fragentyp = "Radio"
 id = "f-3"
-optionen = ["mehr als 3 ", "weniger als 3"]
+optionen = ["mehr als 3 ", "weniger als 3", "noch keine Diäten gemacht"]
 [[abschnitte.fragen]]
 frage = "Wie lang war Ihre längste Diät?"
 fragentyp = "Radio"
