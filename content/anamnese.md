@@ -300,7 +300,7 @@ fragentyp = "Checkbox"
 id = "f-5"
 optionen = ["Depressionen / Angststörungen", "Alltagsstress", "Migräne"]
 [[abschnitte.fragen]]
-frage = "Durch was wird Ihr Alltagsstress ausgelöst?"
+frage = "Wodurch wird Ihr Alltagsstress ausgelöst?"
 fragentyp = "Radio"
 id = "f-6"
 optionen = ["Beruflich", "Privat", "Beides"]
