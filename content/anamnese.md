@@ -214,6 +214,7 @@ id = "f-5"
 optionen = ["täglich", "häufig", "selten"]
 pflichtfeld = false
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Welche Nahrungsunverträglichkeiten  haben Sie?"
 fragentyp = "Checkbox"
 id = "f-6"
