@@ -5,7 +5,7 @@ title = "Labels"
 [[label]]
 name = "Hinweis_Pflichtfelder"
 [[label.sprachen]]
-content = "<p>Bitte füllen Sie alle Pflichtfelder.</p>"
+content = "<p>Bitte füllen Sie alle Pflichtfelder aus.</p>"
 sprache = "de"
 [[label]]
 name = "Button_Anamnese_Fertig"
