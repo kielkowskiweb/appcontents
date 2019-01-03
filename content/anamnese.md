@@ -209,7 +209,7 @@ id = "f-4"
 optionen = ["immer", "häufig", "eher nicht"]
 [[abschnitte.fragen]]
 frage = "Essen Sie viel Süßigkeiten / salzige Snacks?"
-fragentyp = "Checkbox"
+fragentyp = "Radio"
 id = "f-5"
 optionen = ["täglich", "häufig", "selten"]
 pflichtfeld = false
