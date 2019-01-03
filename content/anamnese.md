@@ -9,6 +9,7 @@ id = "a-00"
 titel = "URSACHEN UND ZIEL"
 [[abschnitte.fragen]]
 bild = "/uploads/kreis_neu_eamo.png"
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Was denken Sie könnte die Ursache für Ihr  Gewichtsproblem sein?"
 fragentyp = "Checkbox"
 id = "f-1"
