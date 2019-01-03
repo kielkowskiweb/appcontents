@@ -78,6 +78,7 @@ frage = "Sind Sie berufstätig?"
 fragentyp = "Radio"
 id = "f-5"
 optionen = ["Berufstätig", "Rentner", "Arbeitssuchend"]
+pflichtfeld = false
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Rauchen Sie?"
