@@ -116,6 +116,7 @@ id = "f-1"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Wenn ja, wie?"
 fragentyp = "Checkbox"
 id = "f-2"
