@@ -143,7 +143,7 @@ erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em><
 frage = "Wie legen Sie Ihren Arbeitsweg zurück?"
 fragentyp = "Radio"
 id = "f-1"
-optionen = ["Auto", "Öffentliche Verkehrsmittel", "Fahrrad", "Öffentliche Verkehrsmittel und Fahrrad", "Ich arbeite überwiegend Zuhause", "Ich gehe keiner regelmässigen Arbeit nach"]
+optionen = ["Auto", "Öffentliche Verkehrsmittel", "Fahrrad", "Öffentliche Verkehrsmittel und Fahrrad", "Ich arbeite überwiegend Zuhause", "Ich bin nicht berufstätig"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 erlaeuterung = "<p>(Hier verwenden wir als Rechengrundlage 200 Arbeitstage)</p>"
