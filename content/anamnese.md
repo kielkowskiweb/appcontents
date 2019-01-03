@@ -299,6 +299,7 @@ fragentyp = "Checkbox"
 id = "f-4"
 optionen = ["Bluthochdruck", "Herzrhythmusstörungen", "Herzinsuffizienz (Herzschwäche)"]
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Psychische Erkrankungen – Belastungen"
 fragentyp = "Checkbox"
 id = "f-5"
