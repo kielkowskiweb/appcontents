@@ -174,18 +174,18 @@ bild = "/uploads/essegewohnheiten.png"
 id = "a-40"
 titel = "4. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
-erlaeuterung = "<p>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</p>"
-frage = "Essen Sie zum Frühstück Kohlehydrate (Brot, Müsli, Getreide) ?  *"
-fragentyp = "Radio"
-id = "f-"
-optionen = ["Ja", "Nein", "manchmal"]
-pflichtfeld = true
-[[abschnitte.fragen]]
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Frühstücken Sie regelmäßig bevor Sie aus dem Haus gehen?"
 fragentyp = "Radio"
 id = "f-1"
 optionen = ["immer", "manchmal", "eher nicht", "nie"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+erlaeuterung = "<p>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</p>"
+frage = "Essen Sie zum Frühstück Kohlehydrate (Brot, Müsli, Getreide) ?  *"
+fragentyp = "Radio"
+id = "f-8"
+optionen = ["Ja", "Nein", "manchmal"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
