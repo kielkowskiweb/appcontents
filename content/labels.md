@@ -3,6 +3,26 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "Abend"
+[[label.sprachen]]
+content = "<p>Abend</p>"
+sprache = "de"
+[[label]]
+name = "Mittag"
+[[label.sprachen]]
+content = "<p>Mittag</p>"
+sprache = "de"
+[[label]]
+name = "Snack"
+[[label.sprachen]]
+content = "<p>Snack</p>"
+sprache = "de"
+[[label]]
+name = "Fruehstueck"
+[[label.sprachen]]
+content = "<p>Frühstück</p>"
+sprache = "de"
+[[label]]
 name = "Hinweis_Pflichtfelder"
 [[label.sprachen]]
 content = "<p>Bitte füllen Sie alle Pflichtfelder aus.</p>"
