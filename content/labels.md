@@ -3,6 +3,11 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "Name"
+[[label.sprachen]]
+content = "<p>Name</p>"
+sprache = "de"
+[[label]]
 name = "SignUp_Check_Name"
 [[label.sprachen]]
 content = "<p>Name eingegeben</p>"
