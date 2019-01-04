@@ -5,7 +5,7 @@ title = "Labels"
 [[label]]
 name = "SignUp_Check_Name"
 [[label.sprachen]]
-content = "<p>Bitte geben Sie Ihren Namen und Vornamen ein.</p>"
+content = "<p>Name eingegeben</p>"
 sprache = "de"
 [[label]]
 name = "Abend"
