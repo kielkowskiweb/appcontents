@@ -54,7 +54,7 @@ sprache = "de"
 [[label]]
 name = "Button_Mahlzeit_hinzufuegen"
 [[label.sprachen]]
-content = "<p>Mahlzeit hinzufügen</p>"
+content = "<p>Lebensmittel hinzufügen</p>"
 sprache = "de"
 [[label]]
 name = "Mahlzeit_erfassen"
