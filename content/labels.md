@@ -5,12 +5,12 @@ title = "Labels"
 [[label]]
 name = "Abend"
 [[label.sprachen]]
-content = "<p>Abend</p>"
+content = "<p>Abends</p>"
 sprache = "de"
 [[label]]
 name = "Mittag"
 [[label.sprachen]]
-content = "<p>Mittag</p>"
+content = "<p>Mittags</p>"
 sprache = "de"
 [[label]]
 name = "Snack"
@@ -20,7 +20,7 @@ sprache = "de"
 [[label]]
 name = "Fruehstueck"
 [[label.sprachen]]
-content = "<p>Frühstück</p>"
+content = "<p>Morgens</p>"
 sprache = "de"
 [[label]]
 name = "Hinweis_Pflichtfelder"
