@@ -2,18 +2,20 @@
 contents = []
 date = "2018-12-27T22:01:37+00:00"
 intro_bild = "/uploads/eamo_a00.png"
-intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung handelt, die sich auf Ihren persönlichen Stoffwechsel beziehen soll, bitten wir Sie folgende Fragen so genau wie möglich zu beantworten.</p><p>Alle im folgenden benannten Bereiche können sich negativ auf den Stoffwechsel auswirken und je besser wir diesen kennen, um so größer sind unsere Möglichkeiten Ihnen helfen zu können.</p><p>Nehmen Sie sich bitte diese 10 Minuten Zeit!!</p><p>Vertrauen Sie darauf, das wir Ihre Daten nur zur Auswertung und nicht an Dritte weitergeben und absolut vertraulich behandeln. Ein gesunder Stoffwechsel hat nicht nur etwas mit Ernährung zu tun sondern mit sehr vielen Faktoren, daher müssen wir auch Ihr gesamtes Umfeld beleuchten.</p><ul><li><p><img src=\"/uploads/kreis.jpg\">Radiobuttons = Hier können Sie nur eine Option auswählen</p></li><li><p><img src=\"/uploads/checkbox_neu.jpg\">Checkboxen = Hier können Sie mehrere Optionen auswählen</p></li><li><p><img src=\"/uploads/eingabefeld.jpg\">Eingabefelder = Bitte geben Sie hier nur Zahlen ohne Sonderzeichen ein</p></li><li><p><em>* Pflichtfelder = Diese Felder sind Pflichtfelder und müssen ausgefüllt werden</em></p></li></ul>"
+intro_text = "<p>Da es sich hier um eine ernährungsmedizinische Anwendung handelt, die sich auf Ihren persönlichen Stoffwechsel bezieht, bitten wir Sie folgende Fragen so genau wie möglich zu beantworten.</p><p>Alle im folgenden benannten Bereiche können sich negativ auf den Stoffwechsel auswirken und je besser wir diesen kennen, um so größer sind unsere Möglichkeiten Ihnen helfen zu können.</p><p>Nehmen Sie sich bitte diese 10 Minuten Zeit!!</p><p>Vertrauen Sie darauf, das wir Ihre Daten nur zur Auswertung und nicht an Dritte weitergeben und absolut vertraulich behandeln. Ein gesunder Stoffwechsel hat nicht nur etwas mit Ernährung zu tun sondern mit sehr vielen Faktoren, daher müssen wir auch Ihr gesamtes Umfeld beleuchten.</p>"
 layout = "anamnese"
 [[abschnitte]]
 id = "a-00"
 titel = "URSACHEN UND ZIEL"
 [[abschnitte.fragen]]
 bild = "/uploads/kreis_neu_eamo.png"
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Was denken Sie könnte die Ursache für Ihr  Gewichtsproblem sein?"
 fragentyp = "Checkbox"
 id = "f-1"
 optionen = ["Bewegung", "Diäten", "Krankheiten", "Essen", "Stress", "Schlafstörungen"]
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Was wollen Sie erreichen?"
 fragentyp = "Radio"
 id = "f-2"
@@ -24,42 +26,46 @@ bild = "/uploads/eamo_a1.png"
 id = "a-10"
 titel = "1. ALLGEMEINES - TEIL I"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Alter:"
 fragentyp = "Zahl"
 id = "f-1"
 pflichtfeld = true
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Geschlecht"
 fragentyp = "Radio"
 id = "f-2"
 optionen = ["Männlich", "Weiblich"]
 pflichtfeld = true
 [[abschnitte.fragen]]
-erlaeuterung = "<p>*ACHTUNG: Nutzen Sie die APP im Falle einer Schwangerschaft nur unter ärztlicher Begleitung.</p>"
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p><p><strong>ACHTUNG: Nutzen Sie die APP im Falle einer Schwangerschaft nur unter ärztlicher Begleitung.</strong></p>"
 frage = "Kinder"
 fragentyp = "Radio"
 id = "f-3"
 optionen = ["Ja", "Nein", "Schwanger*"]
 pflichtfeld = true
 [[abschnitte.fragen]]
-erlaeuterung = "<p>in cm</p>"
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Körpergröße in cm"
 fragentyp = "Zahl"
 id = "f-4"
 pflichtfeld = true
 [[abschnitte.fragen]]
-erlaeuterung = "<p>in kg</p>"
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Körpergewicht in kg"
 fragentyp = "Zahl"
 id = "f-5"
 pflichtfeld = true
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Fühlen Sie sich mit Ihrem Gewicht unwohl?"
 fragentyp = "Radio"
 id = "f-6"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Mein höchstes  Gewicht (in kg) ist/war:"
 fragentyp = "Zahl"
 id = "f-7"
@@ -69,6 +75,13 @@ bild = "/uploads/eamo_a11.png"
 id = "a-11"
 titel = "1. ALLGEMEINES – TEIL II"
 [[abschnitte.fragen]]
+frage = "Sind Sie berufstätig?"
+fragentyp = "Radio"
+id = "f-5"
+optionen = ["Ja", "Nein"]
+pflichtfeld = false
+[[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Rauchen Sie?"
 fragentyp = "Radio"
 id = "f-1"
@@ -85,23 +98,25 @@ fragentyp = "Radio"
 id = "f-3"
 optionen = ["Ja, aufgehört vor mehr als 2 Jahren", "Ja, aufgehört vor weniger als 2 Jahren"]
 [[abschnitte.fragen]]
-erlaeuterung = "<p>(Mehrfachauswahl möglich)</p>"
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Wie leben Sie?"
-fragentyp = "Checkbox"
+fragentyp = "Radio"
 id = "f-4"
-optionen = ["Berufstätig ", "Arbeitssuchend", "Rentner", "Allein lebend", "In Partnerschaft lebend ohne Kinder im Haus", "In Partnerschaft lebend mit Kindern im Haus"]
+optionen = ["Allein lebend", "In Partnerschaft lebend ohne Kinder im Haus", "In Partnerschaft lebend mit Kindern im Haus", "Kinder/Jugendliche/Studenten (im Elternhaus lebend)"]
 pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/diaeten_und_co-1.jpg"
 id = "a-20"
 titel = "2. DIÄTEN & CO"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?"
 fragentyp = "Radio"
 id = "f-1"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Wenn ja, wie?"
 fragentyp = "Checkbox"
 id = "f-2"
@@ -110,72 +125,72 @@ optionen = ["Low Carb", "Eiweißreiche Ernährung", "Kalorien zählen / Punkte z
 frage = "Wie viele Diäten haben Sie in Ihrem Leben gemacht?"
 fragentyp = "Radio"
 id = "f-3"
-optionen = ["mehr als 3 ", "weniger als 3"]
+optionen = ["mehr als 3 ", "weniger als 3", "noch keine Diäten gemacht"]
 [[abschnitte.fragen]]
 frage = "Wie lang war Ihre längste Diät?"
 fragentyp = "Radio"
 id = "f-4"
 optionen = ["mehr als 2 Monate", "weniger als 2 Monate"]
 [[abschnitte.fragen]]
-frage = "Wie lange ist Ihre letzte Diät her?"
+frage = "Wie lange liegt Ihre letzte Diät zurück"
 fragentyp = "Radio"
 id = "f-5"
-optionen = ["mehr als 2 Jahre", "weniger als 12 Monate", "Ich befinde mich in Diät- oder Abnehmbemühungen!"]
+optionen = ["mehr als 2 Jahre", "1 - 2 Jahre", "weniger als 1 Jahr", "Ich befinde mich aktuell in Diät- oder Abnehmbemühungen "]
 [[abschnitte]]
 bild = "/uploads/arbeit.jpg"
 id = "a-30"
 titel = "3. ARBEIT UND BERUF"
 [[abschnitte.fragen]]
-frage = "Wie legen Sie Ihren Arbeitsweg zurück?"
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
+frage = "Wie legen Sie Ihren Arbeitsweg / Schulweg zurück?"
 fragentyp = "Radio"
 id = "f-1"
-optionen = ["Auto", "Öffentliche Verkehrsmittel", "Fahrrad", "ich arbeite überwiegend Zuhause", "Öffentliche Verkehrsmittel und Fahrrad"]
+optionen = ["Auto", "Öffentliche Verkehrsmittel", "Fahrrad", "Öffentliche Verkehrsmittel und Fahrrad", "Ich arbeite überwiegend Zuhause", "Ich bin nicht berufstätig"]
 pflichtfeld = true
 [[abschnitte.fragen]]
-frage = "Wie viele Kilometer legen Sie pro Jahr für den Weg zur Arbeit mit dem Rad zurück?"
+erlaeuterung = "<p>(Hier verwenden wir als Rechengrundlage 200 Arbeitstage)</p>"
+frage = "Wie viele Km legen Sie ingesamt pro Tag für den Arbeitsweg / Schulweg mit dem Fahrrad zurück?"
 fragentyp = "Zahl"
 id = "f-2"
 [[abschnitte.fragen]]
-frage = "Üben Sie Ihren Beruf überwiegend sitzend oder  in Bewegung aus?"
+erlaeuterung = "<p></p>"
+frage = "Üben Sie Ihren Beruf überwiegend sitzend oder in Bewegung aus?"
 fragentyp = "Radio"
 id = "f-3"
-optionen = ["sitzend z. B. am PC", "in Bewegung z. B. Verkäufer/Handwerker"]
-pflichtfeld = true
+optionen = ["in Bewegung z. B. Verkäufer/Handwerker", "überwiegend sitzend z. B. am PC"]
+pflichtfeld = false
 [[abschnitte.fragen]]
 frage = "Zu welchen Zeiten / Schichten arbeiten Sie?"
 fragentyp = "Radio"
 id = "f-4"
-optionen = ["Tagschicht", "Früh/Spätschicht", "3-Schichtsystem", "Nur Nachtschicht"]
-pflichtfeld = true
+optionen = ["Tagesschicht", "Früh/Spätschicht", "3-Schichtsystem", "Nur Nachtschicht"]
+pflichtfeld = false
 [[abschnitte.fragen]]
 frage = "Verlassen Sie vor 7:00 Uhr das Haus?"
 fragentyp = "Radio"
 id = "f-5"
 optionen = ["Ja", "Nein"]
-pflichtfeld = true
-[[abschnitte.fragen]]
-frage = "Frühstücken Sie Zuhause?"
-fragentyp = "Radio"
-id = "f-6"
-optionen = ["Ja", "Nein", "manchmal"]
-pflichtfeld = true
-[[abschnitte.fragen]]
-frage = "Essen Sie zum Frühstück Kohlehydrate  (Brot, Müsli, Getreide) ?"
-fragentyp = "Radio"
-id = "f-7"
-optionen = ["Ja", "Nein", "manchmal"]
-pflichtfeld = true
+pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/essegewohnheiten.png"
 id = "a-40"
 titel = "4. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Frühstücken Sie regelmäßig bevor Sie aus dem Haus gehen?"
 fragentyp = "Radio"
 id = "f-1"
 optionen = ["immer", "manchmal", "eher nicht", "nie"]
 pflichtfeld = true
 [[abschnitte.fragen]]
+erlaeuterung = "<p>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</p>"
+frage = "Essen Sie zum Frühstück Kohlehydrate (Brot, Müsli, Getreide)?  *"
+fragentyp = "Radio"
+id = "f-8"
+optionen = ["Ja", "Nein", "manchmal"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Essen Sie regelmäßig bis 14 Uhr Mittagessen?"
 fragentyp = "Radio"
 id = "f-2"
@@ -185,8 +200,8 @@ pflichtfeld = true
 frage = "Essen Sie zum Mittagessen Kohlehydrate (Kartoffeln, Reis, Pasta)?"
 fragentyp = "Radio"
 id = "f-3"
-optionen = ["Ja", "Nein", "Manchmal"]
-pflichtfeld = true
+optionen = ["Ja", "Nein", "manchmal"]
+pflichtfeld = false
 [[abschnitte.fragen]]
 frage = "Ist das Abendessen Ihre Hauptmahlzeit?"
 fragentyp = "Radio"
@@ -194,15 +209,16 @@ id = "f-4"
 optionen = ["immer", "häufig", "eher nicht"]
 [[abschnitte.fragen]]
 frage = "Essen Sie viel Süßigkeiten / salzige Snacks?"
-fragentyp = "Checkbox"
+fragentyp = "Radio"
 id = "f-5"
 optionen = ["täglich", "häufig", "selten"]
 pflichtfeld = false
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Welche Nahrungsunverträglichkeiten  haben Sie?"
 fragentyp = "Checkbox"
 id = "f-6"
-optionen = ["Laktoseunverträglichkeit", "Glutenunverträglichkeit", "Fruktoseintoleranz", "Histaminunverträglichkeit"]
+optionen = ["Laktoseunverträglichkeit", "Glutenunverträglichkeit", "Fruktoseintoleranz", "Histaminunverträglichkeit", "keine Nahrungsmittelunverträglichkeiten"]
 [[abschnitte.fragen]]
 frage = "Haben Sie andere Nahrungsmittelunverträglichkeiten?"
 fragentyp = "Langtext"
@@ -212,17 +228,19 @@ bild = "/uploads/schlafen_222.jpg"
 id = "a-50"
 titel = "5. SCHLAFGEWOHNHEITEN"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Wie lange schlafen Sie?"
 fragentyp = "Radio"
 id = "f-1"
 optionen = ["weniger als 6 h", "6 - 8 h", "mehr als 8 h"]
 pflichtfeld = true
 [[abschnitte.fragen]]
+erlaeuterung = "<p></p>"
 frage = "Wie gut schlafen Sie?"
 fragentyp = "Radio"
 id = "f-2"
 optionen = ["gut", "schlecht", "überwiegend gut", "überwiegend schlecht"]
-pflichtfeld = true
+pflichtfeld = false
 [[abschnitte.fragen]]
 frage = "Welche Art der Schlafstörung haben Sie?"
 fragentyp = "Radio"
@@ -233,6 +251,7 @@ bild = "/uploads/sport.jpg"
 id = "a-60"
 titel = "6. SPORT"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Treiben Sie Sport?"
 fragentyp = "Radio"
 id = "f-1"
@@ -274,21 +293,24 @@ fragentyp = "Radio"
 id = "f-3"
 optionen = ["Hohe Blutfettwerte", "Hohe Leberwerte", "Hohes Cholesterin"]
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Herz-Kreislauf"
 fragentyp = "Checkbox"
 id = "f-4"
 optionen = ["Bluthochdruck", "Herzrhythmusstörungen", "Herzinsuffizienz (Herzschwäche)"]
 [[abschnitte.fragen]]
-frage = "Psychische Erkrankungen – Belastungen"
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
+frage = "Psychische Belastungen / Psychische Erkrankungen"
 fragentyp = "Checkbox"
 id = "f-5"
-optionen = ["Depressionen / Angststörungen", "Alltagsstress", "Migräne"]
+optionen = ["Depressionen / Angststörungen", "Migräne", "Alltagsstress", "Depressionen / Angststörungen", "Migräne"]
 [[abschnitte.fragen]]
-frage = "Durch was wird Ihr Alltagsstress ausgelöst?"
+frage = "Wodurch wird Ihr Alltagsstress ausgelöst?"
 fragentyp = "Radio"
 id = "f-6"
 optionen = ["Beruflich", "Privat", "Beides"]
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Leiden Sie an Krankheiten?"
 fragentyp = "Radio"
 id = "f-7"
@@ -299,26 +321,31 @@ bild = "/uploads/krankheiten_neu-medi.jpg"
 id = "a-71"
 titel = "7. ERKRANKUNGEN - TEIL II"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Leber"
 fragentyp = "Checkbox"
 id = "f-1"
 optionen = ["Fettleber", "Erhöhte Leberwerte", "Zirrhose", "Hepatitis"]
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Magen"
 fragentyp = "Checkbox"
 id = "f-2"
 optionen = ["Geschwür (gutartig)", "Gastritis (Entzündung)", "Reflux (Sodbrennen)"]
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Darm"
 fragentyp = "Checkbox"
 id = "f-3"
 optionen = ["Dünndarm", "Dickdarm", "Tumor", "Divertikel", "Morbus Crohn", "Colitis ulcerosa"]
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Nierenerkrankung"
 fragentyp = "Checkbox"
 id = "f-4"
 optionen = ["Niereninsuffizienz", "Nierensteine"]
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Gelenkerkrankungen"
 fragentyp = "Checkbox"
 id = "f-5"
@@ -328,20 +355,16 @@ frage = "Sonstige Tumor / Krebserkrankungen"
 fragentyp = "Text"
 id = "f-6"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Nehmen Sie Medikamente?"
 fragentyp = "Radio"
 id = "f-7"
 optionen = ["ja", "nein"]
+pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Wenn ja, welche Medikamente nehmen Sie?"
 fragentyp = "Langtext"
 id = "f-8"
-[[abschnitte.fragen]]
-frage = "Leiden Sie an Krankheiten?"
-fragentyp = "Radio"
-id = "f-9"
-optionen = ["Ja", "Nein"]
-pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/geschafft.jpg"
 id = "a-80"

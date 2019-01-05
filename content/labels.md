@@ -3,9 +3,44 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "Name"
+[[label.sprachen]]
+content = "<p>Name</p>"
+sprache = "de"
+[[label]]
+name = "SignUp_Check_Name"
+[[label.sprachen]]
+content = "<p>Name eingegeben</p>"
+sprache = "de"
+[[label]]
+name = "Abend"
+[[label.sprachen]]
+content = "<p>Abends</p>"
+sprache = "de"
+[[label]]
+name = "Mittag"
+[[label.sprachen]]
+content = "<p>Mittags</p>"
+sprache = "de"
+[[label]]
+name = "Snack"
+[[label.sprachen]]
+content = "<p>Snack</p>"
+sprache = "de"
+[[label]]
+name = "Fruehstueck"
+[[label.sprachen]]
+content = "<p>Morgens</p>"
+sprache = "de"
+[[label]]
+name = "Hinweis_Pflichtfelder"
+[[label.sprachen]]
+content = "<p>Bitte füllen Sie alle Pflichtfelder aus.</p>"
+sprache = "de"
+[[label]]
 name = "Button_Anamnese_Fertig"
 [[label.sprachen]]
-content = "<p>Speichern</p>"
+content = "<p>Senden</p>"
 sprache = "de"
 [[label]]
 name = "Button_Anamnese_Weiter"
