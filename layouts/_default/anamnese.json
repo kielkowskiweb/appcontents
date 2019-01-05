@@ -9,7 +9,7 @@
    "intro":"{{htmlEscape ($a.intro | default "")}}",
    "questions":{
     {{range $idxf,$f := $a.fragen}}
-    "{{$f.id | default (string $idxf)}}":{
+    "+{{ printf "%03d" $idxf }}+{{$f.id | default (string $idxf)}}":{
       "q":"{{htmlEscape ($f.frage | default "")}}",
       "e":"{{htmlEscape ($f.erlaeuterung | default "")}}",
       "t":"{{lower ($f.fragentyp | default "")}}",
