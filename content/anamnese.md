@@ -300,10 +300,10 @@ id = "f-4"
 optionen = ["Bluthochdruck", "Herzrhythmusstörungen", "Herzinsuffizienz (Herzschwäche)"]
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
-frage = "Psychische Erkrankungen – Belastungen"
+frage = "Psychische Belastungen / Psychische Erkrankungen"
 fragentyp = "Checkbox"
 id = "f-5"
-optionen = ["Depressionen / Angststörungen", "Alltagsstress", "Migräne"]
+optionen = ["Depressionen / Angststörungen", "Migräne", "Alltagsstress", "Depressionen / Angststörungen", "Migräne"]
 [[abschnitte.fragen]]
 frage = "Wodurch wird Ihr Alltagsstress ausgelöst?"
 fragentyp = "Radio"
