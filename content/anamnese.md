@@ -78,7 +78,7 @@ titel = "1. ALLGEMEINES – TEIL II"
 frage = "Sind Sie berufstätig?"
 fragentyp = "Radio"
 id = "f-5"
-optionen = ["Berufstätig", "Rentner", "Arbeitssuchend"]
+optionen = ["Ja", "Nein"]
 pflichtfeld = false
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
