@@ -149,7 +149,7 @@ optionen = ["Auto", "Öffentliche Verkehrsmittel", "Fahrrad", "Öffentliche Verk
 pflichtfeld = true
 [[abschnitte.fragen]]
 erlaeuterung = "<p>(Hier verwenden wir als Rechengrundlage 200 Arbeitstage)</p>"
-frage = "Wie viele Km legen Sie ingesamt pro Tag für den Arbeitsweg mit dem Fahrrad zurück?"
+frage = "Wie viele Km legen Sie ingesamt pro Tag für den Arbeitsweg / Schulweg mit dem Fahrrad zurück?"
 fragentyp = "Zahl"
 id = "f-2"
 [[abschnitte.fragen]]
