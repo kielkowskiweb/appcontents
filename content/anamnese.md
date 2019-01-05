@@ -142,7 +142,7 @@ id = "a-30"
 titel = "3. ARBEIT UND BERUF"
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
-frage = "Wie legen Sie Ihren Arbeitsweg zurück?"
+frage = "Wie legen Sie Ihren Arbeitsweg / Schulweg zurück?"
 fragentyp = "Radio"
 id = "f-1"
 optionen = ["Auto", "Öffentliche Verkehrsmittel", "Fahrrad", "Öffentliche Verkehrsmittel und Fahrrad", "Ich arbeite überwiegend Zuhause", "Ich bin nicht berufstätig"]
