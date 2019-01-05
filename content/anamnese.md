@@ -102,7 +102,7 @@ erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em><
 frage = "Wie leben Sie?"
 fragentyp = "Radio"
 id = "f-4"
-optionen = ["Allein lebend", "In Partnerschaft lebend ohne Kinder im Haus", "In Partnerschaft lebend mit Kindern im Haus"]
+optionen = ["Allein lebend", "In Partnerschaft lebend ohne Kinder im Haus", "In Partnerschaft lebend mit Kindern im Haus", "Kinder/Jugendliche/Studenten (im Elternhaus lebend)"]
 pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/diaeten_und_co-1.jpg"
