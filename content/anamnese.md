@@ -184,7 +184,7 @@ optionen = ["immer", "manchmal", "eher nicht", "nie"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 erlaeuterung = "<p>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</p>"
-frage = "Essen Sie zum Frühstück Kohlehydrate (Brot, Müsli, Getreide) ?  *"
+frage = "Essen Sie zum Frühstück Kohlehydrate (Brot, Müsli, Getreide)?  *"
 fragentyp = "Radio"
 id = "f-8"
 optionen = ["Ja", "Nein", "manchmal"]
