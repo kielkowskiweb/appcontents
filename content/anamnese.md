@@ -303,7 +303,7 @@ erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Psychische Belastungen / Psychische Erkrankungen"
 fragentyp = "Checkbox"
 id = "f-5"
-optionen = ["Depressionen / Angststörungen", "Migräne", "Alltagsstress", "Depressionen / Angststörungen", "Migräne"]
+optionen = ["Alltagsstress", "Migräne", "Depressionen / Angststörungen"]
 [[abschnitte.fragen]]
 frage = "Wodurch wird Ihr Alltagsstress ausgelöst?"
 fragentyp = "Radio"
