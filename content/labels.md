@@ -5,7 +5,7 @@ title = "Labels"
 [[label]]
 name = "Mein_Ernaehrungsplan"
 [[label.sprachen]]
-content = "<p>Mein Ernährungsplan</p>"
+content = "<p>Ernährungsplan</p>"
 sprache = "de"
 [[label]]
 name = "Name"
