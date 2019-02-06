@@ -95,7 +95,7 @@ sprache = "de"
 [[label]]
 name = "Landing_Button_Intro"
 [[label.sprachen]]
-content = "<p>Wählen Sie hier Ihre Anwendung aus:</p>"
+content = "<p>Bitte füllen Sie im ersten Schritt den Anamnese-Bogen unter „Anamnese\" aus.</p><p>Im zweiten Schritt tragen Sie alle Lebensmittel unter „Lebensmittel erfassen“ ein.</p><p>Wir empfehlen für eine fundierte, realistische Bewertung Ihres Ernährungsverhaltens die Software mindestens 7 Tage während Ihres normalen Alltages zu führen und nicht im Urlaub. So dass Sie frühestens nach 7 Tagen einen Beratungstermin vereinbaren.</p>"
 sprache = "de"
 [[label]]
 name = "Fehlerhafte_Angaben"
