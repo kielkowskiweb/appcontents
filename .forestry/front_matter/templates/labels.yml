@@ -31,6 +31,7 @@ fields:
         schema:
           format: html-blocks
 pages:
+- content/rezepte.md
 - content/essen-erfassen.md
 - content/labels.md
 - content/hilfe.md
