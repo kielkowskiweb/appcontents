@@ -1,4 +1,5 @@
 +++
+layout = "labels"
 date = "2019-02-23T14:42:22+00:00"
 [[label]]
 name = "Button_Eigenes_Rezept_erfassen"
