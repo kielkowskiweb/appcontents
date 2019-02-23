@@ -3,6 +3,11 @@ date = "2018-12-17T07:08:49+00:00"
 layout = "labels"
 title = "Labels"
 [[label]]
+name = "Rezepte"
+[[label.sprachen]]
+content = "<p>Rezepte</p>"
+sprache = "de"
+[[label]]
 name = "Mein_Ernaehrungsplan"
 [[label.sprachen]]
 content = "<p>Ernährungsplan</p>"
