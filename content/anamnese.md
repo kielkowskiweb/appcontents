@@ -277,6 +277,10 @@ bild = "/uploads/eamo_krank_neu.jpg"
 id = "a-70"
 titel = "7. ERKRANKUNGEN"
 [[abschnitte.fragen]]
+frage = "Wenn ja, welche Medikamente nehmen Sie?"
+fragentyp = "Langtext"
+id = "f-8"
+[[abschnitte.fragen]]
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Nehmen Sie Medikamente?"
 fragentyp = "Radio"
