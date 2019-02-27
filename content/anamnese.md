@@ -277,6 +277,12 @@ bild = "/uploads/eamo_krank_neu.jpg"
 id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
+frage = "Leber"
+fragentyp = "Checkbox"
+id = "f-1"
+optionen = ["Fettleber", "Erhöhte leberwerte", "Zirrhose", "Hepatitis"]
+[[abschnitte.fragen]]
 frage = "Stoffwechselstörungen / Erkrankungen I"
 fragentyp = "Radio"
 id = "f-1"
