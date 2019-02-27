@@ -319,13 +319,13 @@ optionen = ["Fettleber", "Erhöhte leberwerte", "Zirrhose", "Hepatitis"]
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Magen"
 fragentyp = "Checkbox"
-id = "f-2"
+id = "f-8"
 optionen = ["Geschwür (gutartig)", "Gastritis (Entzündung)", "Reflux (Sodbrennen)"]
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Darm"
 fragentyp = "Checkbox"
-id = "f-3"
+id = "f-9"
 optionen = ["Dünndarm", "Dickdarm", "Tumor", "Divertikel", "Morbus Crohn", "Colitis ulcerosa"]
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
