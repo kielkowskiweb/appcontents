@@ -341,13 +341,13 @@ id = "f-11"
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Gelenkerkrankungen"
 fragentyp = "Checkbox"
-id = "f-5"
+id = "f-12"
 optionen = ["Arthrose", "Rheuma", "Bandshceibenvorfälle", "Sonstige Gelenke"]
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Nehmen Sie Medikamente?"
 fragentyp = "Radio"
-id = "f-7"
+id = "f-13"
 optionen = ["ja", "nein"]
 pflichtfeld = true
 [[abschnitte.fragen]]
