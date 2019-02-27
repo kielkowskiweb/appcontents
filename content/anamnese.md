@@ -275,7 +275,7 @@ optionen = ["Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)", "Kr
 [[abschnitte]]
 bild = "/uploads/eamo_krank_neu.jpg"
 id = "a-70"
-titel = "7. ERKRANKUNGEN - TEIL I"
+titel = "7. ERKRANKUNGEN"
 [[abschnitte.fragen]]
 frage = "Stoffwechselstörungen / Erkrankungen I"
 fragentyp = "Radio"
