@@ -362,55 +362,6 @@ id = "f-15"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte]]
-bild = "/uploads/krankheiten_neu-medi.jpg"
-id = "a-71"
-titel = "7. ERKRANKUNGEN - TEIL II"
-[[abschnitte.fragen]]
-erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
-frage = "Leber"
-fragentyp = "Checkbox"
-id = "f-1"
-optionen = ["Fettleber", "Erhöhte Leberwerte", "Zirrhose", "Hepatitis"]
-[[abschnitte.fragen]]
-erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
-frage = "Magen"
-fragentyp = "Checkbox"
-id = "f-2"
-optionen = ["Geschwür (gutartig)", "Gastritis (Entzündung)", "Reflux (Sodbrennen)"]
-[[abschnitte.fragen]]
-erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
-frage = "Darm"
-fragentyp = "Checkbox"
-id = "f-3"
-optionen = ["Dünndarm", "Dickdarm", "Tumor", "Divertikel", "Morbus Crohn", "Colitis ulcerosa"]
-[[abschnitte.fragen]]
-erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
-frage = "Nierenerkrankung"
-fragentyp = "Checkbox"
-id = "f-4"
-optionen = ["Niereninsuffizienz", "Nierensteine"]
-[[abschnitte.fragen]]
-erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
-frage = "Gelenkerkrankungen"
-fragentyp = "Checkbox"
-id = "f-5"
-optionen = ["Arthrose", "Rheuma", "Bandscheibenvorfälle", "Sonstige Gelenke"]
-[[abschnitte.fragen]]
-frage = "Sonstige Tumor / Krebserkrankungen"
-fragentyp = "Text"
-id = "f-6"
-[[abschnitte.fragen]]
-erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
-frage = "Nehmen Sie Medikamente?"
-fragentyp = "Radio"
-id = "f-7"
-optionen = ["ja", "nein"]
-pflichtfeld = true
-[[abschnitte.fragen]]
-frage = "Wenn ja, welche Medikamente nehmen Sie?"
-fragentyp = "Langtext"
-id = "f-8"
-[[abschnitte]]
 bild = "/uploads/geschafft.jpg"
 id = "a-80"
 intro = "<h1>GESCHAFFT</h1><p>Vielen Dank, daß Sie sich die Zeit genommen haben.</p><p>Sie können Ihren Fragebogen jetzt absenden und mit der Lebensmittelerfassung beginnen.</p>"
