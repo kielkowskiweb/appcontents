@@ -331,12 +331,12 @@ optionen = ["Dünndarm", "Dickdarm", "Tumor", "Divertikel", "Morbus Crohn", "Col
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Nierenerkrankung"
 fragentyp = "Checkbox"
-id = "f-4"
+id = "f-10"
 optionen = ["Niereninsuffizienz", "Nierensteine"]
 [[abschnitte.fragen]]
 frage = "Sonstige Tumor / Krebserkrankungen"
 fragentyp = "Text"
-id = "f-6"
+id = "f-11"
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Gelenkerkrankungen"
