@@ -277,6 +277,13 @@ bild = "/uploads/eamo_krank_neu.jpg"
 id = "a-70"
 titel = "7. ERKRANKUNGEN"
 [[abschnitte.fragen]]
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
+frage = "Nehmen Sie Medikamente?"
+fragentyp = "Radio"
+id = "f-7"
+optionen = ["ja", "nein"]
+pflichtfeld = true
+[[abschnitte.fragen]]
 frage = "Stoffwechselstörungen / Erkrankungen I"
 fragentyp = "Radio"
 id = "f-1"
