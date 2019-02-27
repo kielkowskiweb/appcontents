@@ -278,10 +278,10 @@ id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
-frage = "Leber"
+frage = "Magen"
 fragentyp = "Checkbox"
-id = "f-1"
-optionen = ["Fettleber", "Erhöhte leberwerte", "Zirrhose", "Hepatitis"]
+id = "f-2"
+optionen = ["Geschwür (gutartig)", "Gastritis (Entzündung)", "Reflux (Sodbrennen)"]
 [[abschnitte.fragen]]
 frage = "Stoffwechselstörungen / Erkrankungen I"
 fragentyp = "Radio"
@@ -315,6 +315,12 @@ frage = "Wodurch wird Ihr Alltagsstress ausgelöst?"
 fragentyp = "Radio"
 id = "f-6"
 optionen = ["Beruflich", "Privat", "Beides"]
+[[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
+frage = "Leber"
+fragentyp = "Checkbox"
+id = "f-1"
+optionen = ["Fettleber", "Erhöhte leberwerte", "Zirrhose", "Hepatitis"]
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Leiden Sie an Krankheiten?"
