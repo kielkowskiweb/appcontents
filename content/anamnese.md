@@ -277,12 +277,6 @@ bild = "/uploads/eamo_krank_neu.jpg"
 id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte.fragen]]
-erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
-frage = "Gelenkerkrankungen"
-fragentyp = "Checkbox"
-id = "f-5"
-optionen = ["Arthrose", "Rheuma", "Bandshceibenvorfälle", "Sonstige Gelenke"]
-[[abschnitte.fragen]]
 frage = "Stoffwechselstörungen / Erkrankungen I"
 fragentyp = "Radio"
 id = "f-1"
@@ -339,6 +333,12 @@ frage = "Nierenerkrankung"
 fragentyp = "Checkbox"
 id = "f-4"
 optionen = ["Niereninsuffizienz", "Nierensteine"]
+[[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
+frage = "Gelenkerkrankungen"
+fragentyp = "Checkbox"
+id = "f-5"
+optionen = ["Arthrose", "Rheuma", "Bandshceibenvorfälle", "Sonstige Gelenke"]
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Leiden Sie an Krankheiten?"
