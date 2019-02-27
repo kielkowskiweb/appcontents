@@ -277,6 +277,10 @@ bild = "/uploads/eamo_krank_neu.jpg"
 id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte.fragen]]
+frage = "Sonstige Tumor / Krebserkrankungen"
+fragentyp = "Text"
+id = "f-6"
+[[abschnitte.fragen]]
 frage = "Stoffwechselstörungen / Erkrankungen I"
 fragentyp = "Radio"
 id = "f-1"
