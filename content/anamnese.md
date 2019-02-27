@@ -278,10 +278,10 @@ id = "a-70"
 titel = "7. ERKRANKUNGEN - TEIL I"
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
-frage = "Darm"
+frage = "Nierenerkrankung"
 fragentyp = "Checkbox"
-id = "f-3"
-optionen = ["Dünndarm", "Dickdarm", "Tumor", "Divertikel", "Morbus Crohn", "Colitis ulcerosa"]
+id = "f-4"
+optionen = ["Niereninsuffizienz", "Nierensteine"]
 [[abschnitte.fragen]]
 frage = "Stoffwechselstörungen / Erkrankungen I"
 fragentyp = "Radio"
@@ -327,6 +327,12 @@ frage = "Magen"
 fragentyp = "Checkbox"
 id = "f-2"
 optionen = ["Geschwür (gutartig)", "Gastritis (Entzündung)", "Reflux (Sodbrennen)"]
+[[abschnitte.fragen]]
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
+frage = "Darm"
+fragentyp = "Checkbox"
+id = "f-3"
+optionen = ["Dünndarm", "Dickdarm", "Tumor", "Divertikel", "Morbus Crohn", "Colitis ulcerosa"]
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Leiden Sie an Krankheiten?"
