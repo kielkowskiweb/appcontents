@@ -275,11 +275,7 @@ optionen = ["Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)", "Kr
 [[abschnitte]]
 bild = "/uploads/eamo_krank_neu.jpg"
 id = "a-70"
-titel = "7. ERKRANKUNGEN - TEIL I"
-[[abschnitte.fragen]]
-frage = "Sonstige Tumor / Krebserkrankungen"
-fragentyp = "Text"
-id = "f-6"
+titel = "7. ERKRANKUNGEN"
 [[abschnitte.fragen]]
 frage = "Stoffwechselstörungen / Erkrankungen I"
 fragentyp = "Radio"
@@ -337,6 +333,10 @@ frage = "Nierenerkrankung"
 fragentyp = "Checkbox"
 id = "f-4"
 optionen = ["Niereninsuffizienz", "Nierensteine"]
+[[abschnitte.fragen]]
+frage = "Sonstige Tumor / Krebserkrankungen"
+fragentyp = "Text"
+id = "f-6"
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Gelenkerkrankungen"
