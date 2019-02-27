@@ -313,7 +313,7 @@ optionen = ["Beruflich", "Privat", "Beides"]
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Leber"
 fragentyp = "Checkbox"
-id = "f-1"
+id = "f-7"
 optionen = ["Fettleber", "Erhöhte leberwerte", "Zirrhose", "Hepatitis"]
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
