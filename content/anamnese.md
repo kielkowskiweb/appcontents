@@ -353,12 +353,12 @@ pflichtfeld = true
 [[abschnitte.fragen]]
 frage = "Wenn ja, welche Medikamente nehmen Sie?"
 fragentyp = "Langtext"
-id = "f-8"
+id = "f-14"
 [[abschnitte.fragen]]
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Leiden Sie an Krankheiten?"
 fragentyp = "Radio"
-id = "f-7"
+id = "f-15"
 optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte]]
