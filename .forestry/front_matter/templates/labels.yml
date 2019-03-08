@@ -1,7 +1,6 @@
 ---
 label: Labels
 hide_body: true
-is_partial: false
 fields:
 - type: field_group_list
   name: label
@@ -31,7 +30,7 @@ fields:
         schema:
           format: html-blocks
 pages:
-- content/rezepte.md
 - content/essen-erfassen.md
+- content/rezepte.md
 - content/labels.md
 - content/hilfe.md
