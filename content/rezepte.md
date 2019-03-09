@@ -2,6 +2,11 @@
 date = "2019-02-23T14:42:22+00:00"
 layout = "labels"
 [[label]]
+name = "Button_weiteres_Rezept"
+[[label.sprachen]]
+content = "<p>Weiteres Rezept erfassen</p>"
+sprache = "de"
+[[label]]
 name = "Eigenes_Rezept_Vielen_Dank"
 [[label.sprachen]]
 content = "<h2>Vielen Dank </h2><p>für Ihren Beitrag, wir pflegen das Rezept jetzt in unsere Datenbank ein. In wenigen Tagen finden Sie das Rezept auch in der Rezeptliste. </p><p><em>Ihr EaMo Team</em></p>"
@@ -22,6 +27,11 @@ name = "Eigenes_Rezept_Absenden"
 content = "<p>Rezept einsenden</p>"
 sprache = "de"
 [[label]]
+name = "Eigenes_Rezept_Schritt2"
+[[label.sprachen]]
+content = "<p><strong>Schritt 2: Personen</strong><br><em>Für wieviele Personen ist Ihr Rezept gedacht</em></p>"
+sprache = "de"
+[[label]]
 name = "Eigenes_Rezept_Hinweistext"
 [[label.sprachen]]
 content = "<p><em>Mit dem Einsenden des Rezeptes, erkläre ich mich damit einverstanden, das mein Rezept für alle eamo Nutzer veröffentlicht wird.</em></p>"
@@ -35,11 +45,6 @@ sprache = "de"
 name = "Eigenes_Rezept_Schritt3"
 [[label.sprachen]]
 content = "<p><strong>Schritt 3: Zutaten</strong><br><em>Diese Zutaten werden benötigt</em></p>"
-sprache = "de"
-[[label]]
-name = "Eigenes_Rezept_Schritt2"
-[[label.sprachen]]
-content = "<p><strong>Schritt 2: Personen</strong><br><em>Für wieviele Personen ist Ihr Rezept gedacht</em></p>"
 sprache = "de"
 [[label]]
 name = "Eigenes_Rezept_Schritt1"
