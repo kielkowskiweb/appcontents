@@ -2,6 +2,11 @@
 date = "2019-02-23T14:42:22+00:00"
 layout = "labels"
 [[label]]
+name = "Eigenes_Rezept_Radio_1Personen"
+[[label.sprachen]]
+content = "<p>1 Person</p>"
+sprache = "de"
+[[label]]
 name = "Button_weiteres_Rezept"
 [[label.sprachen]]
 content = "<p>Weiteres Rezept erfassen</p>"
