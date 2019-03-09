@@ -2,6 +2,11 @@
 date = "2019-02-23T14:42:22+00:00"
 layout = "labels"
 [[label]]
+name = "Eigenes_Rezept_Vielen_Dank"
+[[label.sprachen]]
+content = "<h2>Vielen Dank </h2><p>für Ihren Beitrag, wir pflegen das Rezept jetzt in unsere Datenbank ein. In wenigen Tagen finden Sie das Rezept auch in der Rezeptliste. </p><p><em>Ihr EaMo Team</em></p>"
+sprache = "de"
+[[label]]
 name = "Eigenes_Rezept_Radio_4Personen"
 [[label.sprachen]]
 content = "<p>4 Personen</p>"
