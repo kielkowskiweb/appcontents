@@ -209,6 +209,14 @@ intro = ""
 titel = "5. Gewichtsverlauf"
 [[abschnitte.fragen]]
 bild = ""
+erlaeuterung = "<p>(Mehrfachauswahl)</p>"
+frage = "Was denken Sie, könnte die Ursache für Ihr Gewichtsproblem sein?"
+fragentyp = "Checkbox"
+id = "f-6"
+optionen = ["Bewegung", "Diäten", "Krankheiten", "Essen", "Stress", "Schlafstörungen"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+bild = ""
 erlaeuterung = ""
 frage = "Was wollen Sie erreichen?"
 fragentyp = "Radio"
@@ -217,11 +225,11 @@ optionen = ["Gewichtsstabilisierung", "Gewichtsreduktion", "Gewichtszunahme"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
-erlaeuterung = "<p>(Mehrfachauswahl)</p>"
-frage = "Was denken Sie, könnte die Ursache für Ihr Gewichtsproblem sein?"
-fragentyp = "Checkbox"
-id = "f-6"
-optionen = ["Bewegung", "Diäten", "Krankheiten", "Essen", "Stress", "Schlafstörungen"]
+erlaeuterung = ""
+frage = "Fühlen Sie sich mit Ihrem Gewicht unwohl?"
+fragentyp = "Radio"
+id = "f-8"
+optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
