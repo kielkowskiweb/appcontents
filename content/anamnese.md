@@ -233,6 +233,14 @@ optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
+erlaeuterung = ""
+frage = "Mein höchstes Gewicht (in kg) ist/war:"
+fragentyp = "Zahl"
+id = "f-9"
+optionen = []
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?"
 fragentyp = "Radio"
