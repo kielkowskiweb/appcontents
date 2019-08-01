@@ -108,6 +108,51 @@ id = "f-3"
 optionen = ["Ja, aufgehört vor mehr als 2 Jahren", "Ja, aufgehört vor weniger als 2 Jahren"]
 pflichtfeld = false
 [[abschnitte]]
+bild = "/uploads/arbeit.jpg"
+id = "a-30"
+intro = ""
+titel = "2. ARBEIT UND BERUF"
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
+frage = "Wie legen Sie Ihren Arbeitsweg / Schulweg zurück?"
+fragentyp = "Radio"
+id = "f-1"
+optionen = ["Auto", "Fahrrad", "Ich arbeite überwiegend Zuhause", "Ich bin nicht berufstätig", "öffentlicher Nahverkehr"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = "<p>(Hier verwenden wir als Rechengrundlage 200 Arbeitstage)</p>"
+frage = "Wie viele Km legen Sie ingesamt pro Tag für den Arbeitsweg / Schulweg mit dem Fahrrad zurück?"
+fragentyp = "Zahl"
+id = "f-2"
+optionen = []
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = "<p></p>"
+frage = "Üben Sie Ihren Beruf überwiegend sitzend oder in Bewegung aus?"
+fragentyp = "Radio"
+id = "f-3"
+optionen = ["in Bewegung z. B. Verkäufer/Handwerker", "überwiegend sitzend z. B. am PC"]
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = ""
+frage = "Zu welchen Zeiten / Schichten arbeiten Sie?"
+fragentyp = "Radio"
+id = "f-4"
+optionen = ["Tagesschicht", "Früh/Spätschicht", "3-Schichtsystem", "Nur Nachtschicht"]
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = ""
+frage = "Verlassen Sie vor 7:00 Uhr das Haus?"
+fragentyp = "Radio"
+id = "f-5"
+optionen = ["Ja", "Nein"]
+pflichtfeld = false
+[[abschnitte]]
 bild = "/uploads/diaeten_und_co-1.jpg"
 id = "a-20"
 intro = ""
@@ -151,51 +196,6 @@ frage = "Wie lange liegt Ihre letzte Diät zurück"
 fragentyp = "Radio"
 id = "f-5"
 optionen = ["mehr als 2 Jahre", "1 - 2 Jahre", "weniger als 1 Jahr", "Ich befinde mich aktuell in Diät- oder Abnehmbemühungen "]
-pflichtfeld = false
-[[abschnitte]]
-bild = "/uploads/arbeit.jpg"
-id = "a-30"
-intro = ""
-titel = "3. ARBEIT UND BERUF"
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
-frage = "Wie legen Sie Ihren Arbeitsweg / Schulweg zurück?"
-fragentyp = "Radio"
-id = "f-1"
-optionen = ["Auto", "Öffentliche Verkehrsmittel", "Fahrrad", "Öffentliche Verkehrsmittel und Fahrrad", "Ich arbeite überwiegend Zuhause", "Ich bin nicht berufstätig"]
-pflichtfeld = true
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = "<p>(Hier verwenden wir als Rechengrundlage 200 Arbeitstage)</p>"
-frage = "Wie viele Km legen Sie ingesamt pro Tag für den Arbeitsweg / Schulweg mit dem Fahrrad zurück?"
-fragentyp = "Zahl"
-id = "f-2"
-optionen = []
-pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = "<p></p>"
-frage = "Üben Sie Ihren Beruf überwiegend sitzend oder in Bewegung aus?"
-fragentyp = "Radio"
-id = "f-3"
-optionen = ["in Bewegung z. B. Verkäufer/Handwerker", "überwiegend sitzend z. B. am PC"]
-pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = ""
-frage = "Zu welchen Zeiten / Schichten arbeiten Sie?"
-fragentyp = "Radio"
-id = "f-4"
-optionen = ["Tagesschicht", "Früh/Spätschicht", "3-Schichtsystem", "Nur Nachtschicht"]
-pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = ""
-frage = "Verlassen Sie vor 7:00 Uhr das Haus?"
-fragentyp = "Radio"
-id = "f-5"
-optionen = ["Ja", "Nein"]
 pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/essegewohnheiten.png"
