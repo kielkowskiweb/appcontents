@@ -90,7 +90,7 @@ pflichtfeld = false
 bild = "/uploads/arbeit.jpg"
 id = "a-30"
 intro = ""
-titel = "2. ARBEIT UND BERUF"
+titel = "2. ARBEIT UND SCHULE"
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
