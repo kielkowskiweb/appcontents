@@ -209,6 +209,14 @@ intro = ""
 titel = "5. Gewichtsverlauf"
 [[abschnitte.fragen]]
 bild = ""
+erlaeuterung = ""
+frage = "Wie gut können Sie bei eigenen Diät- oder Abnehmbemühungen noch abnehmen?"
+fragentyp = "Radio"
+id = "f-11"
+optionen = ["gut", "mäßig", "kaum noch"]
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
 erlaeuterung = "<p>(Mehrfachauswahl)</p>"
 frage = "Was denken Sie, könnte die Ursache für Ihr Gewichtsproblem sein?"
 fragentyp = "Checkbox"
@@ -257,14 +265,6 @@ optionen = ["mehr als 3x", "weniger als 3x"]
 pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
-erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
-frage = "Was haben Sie bereits ausprobiert, um Ihr Gewicht zu reduzieren?"
-fragentyp = "Checkbox"
-id = "f-2"
-optionen = ["Low Carb", "Eiweißreiche Ernährung", "Kalorien zählen / Punkte zählen", "Fasten (auch Intervallfasten)", "Weniger Essen und viel Sport"]
-pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
 erlaeuterung = ""
 frage = "Was war Ihr längster Versuch Gewicht zu reduzieren?"
 fragentyp = "Radio"
@@ -286,6 +286,14 @@ frage = "Wie viele Diäten haben Sie in Ihrem Leben gemacht?"
 fragentyp = "Radio"
 id = "f-3"
 optionen = ["mehr als 3 ", "weniger als 3", "noch keine Diäten gemacht"]
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
+frage = "Was haben Sie bereits ausprobiert, um Ihr Gewicht zu reduzieren?"
+fragentyp = "Checkbox"
+id = "f-2"
+optionen = ["Low Carb", "Eiweißreiche Ernährung", "Kalorien zählen / Punkte zählen", "Fasten (auch Intervallfasten)", "Weniger Essen und viel Sport"]
 pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/essegewohnheiten.png"
