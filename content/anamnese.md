@@ -258,14 +258,6 @@ pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
-frage = "Wie viele Diäten haben Sie in Ihrem Leben gemacht?"
-fragentyp = "Radio"
-id = "f-3"
-optionen = ["mehr als 3 ", "weniger als 3", "noch keine Diäten gemacht"]
-pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = ""
 frage = "Was war Ihr längster Versuch Gewicht zu reduzieren?"
 fragentyp = "Radio"
 id = "f-4"
@@ -274,10 +266,18 @@ pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
-frage = "Wie lange liegt Ihre letzte Diät zurück"
+frage = "Wann war Ihr letzter Versuch Gewicht zu reduzieren?"
 fragentyp = "Radio"
 id = "f-5"
 optionen = ["mehr als 2 Jahre", "1 - 2 Jahre", "weniger als 1 Jahr", "Ich befinde mich aktuell in Diät- oder Abnehmbemühungen "]
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = ""
+frage = "Wie viele Diäten haben Sie in Ihrem Leben gemacht?"
+fragentyp = "Radio"
+id = "f-3"
+optionen = ["mehr als 3 ", "weniger als 3", "noch keine Diäten gemacht"]
 pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/essegewohnheiten.png"
