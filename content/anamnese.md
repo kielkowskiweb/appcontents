@@ -144,14 +144,6 @@ fragentyp = "Radio"
 id = "f-4"
 optionen = ["Tagesschicht", "Früh/Spätschicht", "3-Schichtsystem", "Nur Nachtschicht"]
 pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = ""
-frage = "Verlassen Sie vor 7:00 Uhr das Haus?"
-fragentyp = "Radio"
-id = "f-5"
-optionen = ["Ja", "Nein"]
-pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/diaeten_und_co-1.jpg"
 id = "a-20"
