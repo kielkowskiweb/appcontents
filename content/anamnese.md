@@ -212,7 +212,7 @@ bild = ""
 erlaeuterung = "<p>(Mehrfachauswahl)</p>"
 frage = "Was denken Sie, könnte die Ursache für Ihr Gewichtsproblem sein?"
 fragentyp = "Checkbox"
-id = "f-"
+id = "f-6"
 optionen = ["Bewegung", "Diäten", "Krankheiten", "Essen", "Stress", "Schlafstörungen"]
 pflichtfeld = true
 [[abschnitte.fragen]]
