@@ -174,6 +174,35 @@ id = "f-3"
 optionen = ["Ja", "Nein", "unregelmäßig"]
 pflichtfeld = false
 [[abschnitte]]
+bild = "/uploads/schlafen_222.jpg"
+id = "a-50"
+intro = ""
+titel = "4. SCHLAFGEWOHNHEITEN"
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
+frage = "Wie lange schlafen Sie?"
+fragentyp = "Radio"
+id = "f-1"
+optionen = ["weniger als 6 h", "6 - 8 h", "mehr als 8 h"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = "<p></p>"
+frage = "Wie gut schlafen Sie?"
+fragentyp = "Radio"
+id = "f-2"
+optionen = ["gut", "schlecht", "überwiegend gut", "überwiegend schlecht"]
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = ""
+frage = "Welche Art der Schlafstörung haben Sie?"
+fragentyp = "Radio"
+id = "f-3"
+optionen = ["Durchschlafstörung", "Einschlafstörung", "Durchschlafstörung und Einschlafstörung"]
+pflichtfeld = false
+[[abschnitte]]
 bild = "/uploads/diaeten_und_co-1.jpg"
 id = "a-20"
 intro = ""
@@ -286,35 +315,6 @@ frage = "Haben Sie andere Nahrungsmittelunverträglichkeiten?"
 fragentyp = "Langtext"
 id = "f-7"
 optionen = []
-pflichtfeld = false
-[[abschnitte]]
-bild = "/uploads/schlafen_222.jpg"
-id = "a-50"
-intro = ""
-titel = "5. SCHLAFGEWOHNHEITEN"
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
-frage = "Wie lange schlafen Sie?"
-fragentyp = "Radio"
-id = "f-1"
-optionen = ["weniger als 6 h", "6 - 8 h", "mehr als 8 h"]
-pflichtfeld = true
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = "<p></p>"
-frage = "Wie gut schlafen Sie?"
-fragentyp = "Radio"
-id = "f-2"
-optionen = ["gut", "schlecht", "überwiegend gut", "überwiegend schlecht"]
-pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = ""
-frage = "Welche Art der Schlafstörung haben Sie?"
-fragentyp = "Radio"
-id = "f-3"
-optionen = ["Durchschlafstörung", "Einschlafstörung", "Durchschlafstörung und Einschlafstörung"]
 pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/eamo_krank_neu.jpg"
