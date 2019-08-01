@@ -238,7 +238,7 @@ frage = "Mein höchstes Gewicht (in kg) ist/war:"
 fragentyp = "Zahl"
 id = "f-9"
 optionen = []
-pflichtfeld = false
+pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
