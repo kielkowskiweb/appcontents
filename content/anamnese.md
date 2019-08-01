@@ -372,10 +372,10 @@ titel = "7. ERKRANKUNGEN "
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
-frage = "Welche derzeitigen Beschwerden gibt es?"
-fragentyp = "Text"
-id = "f-18"
-optionen = []
+frage = "Wie sind Sie auf uns aufmerksam geworden?"
+fragentyp = "Radio"
+id = "f-19"
+optionen = ["Bekannte", "Medien", "Internet", "Sonstiges"]
 pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
@@ -503,6 +503,14 @@ erlaeuterung = ""
 frage = "Wenn ja, welche Medikamente nehmen Sie?"
 fragentyp = "Langtext"
 id = "f-14"
+optionen = []
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = ""
+frage = "Welche derzeitigen Beschwerden gibt es?"
+fragentyp = "Text"
+id = "f-18"
 optionen = []
 pflichtfeld = false
 [[abschnitte]]
