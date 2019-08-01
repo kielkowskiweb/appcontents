@@ -372,17 +372,9 @@ titel = "7. ERKRANKUNGEN "
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
-frage = "Hatten Sie eine Operationen? Wenn ja, bitte eingeben!"
-fragentyp = "Langtext"
-id = "f-17"
-optionen = []
-pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = ""
-frage = "Leiden Sie an einer, oben nicht aufgeführten, Erkrankung? Wenn ja, bitte eingeben!"
+frage = "Welche derzeitigen Beschwerden gibt es?"
 fragentyp = "Text"
-id = "f-16"
+id = "f-18"
 optionen = []
 pflichtfeld = false
 [[abschnitte.fragen]]
@@ -483,6 +475,22 @@ optionen = ["Arthrose", "Rheuma", "Sonstige Gelenke", "Bandscheibenvorfälle"]
 pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
+erlaeuterung = ""
+frage = "Leiden Sie an einer, oben nicht aufgeführten, Erkrankung? Wenn ja, bitte eingeben!"
+fragentyp = "Text"
+id = "f-16"
+optionen = []
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = ""
+frage = "Hatten Sie eine Operationen? Wenn ja, bitte eingeben!"
+fragentyp = "Langtext"
+id = "f-17"
+optionen = []
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Nehmen Sie Medikamente?"
 fragentyp = "Radio"
@@ -497,14 +505,6 @@ fragentyp = "Langtext"
 id = "f-14"
 optionen = []
 pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
-frage = "Leiden Sie an Krankheiten?"
-fragentyp = "Radio"
-id = "f-15"
-optionen = ["Ja", "Nein"]
-pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/geschafft.jpg"
 fragen = []
