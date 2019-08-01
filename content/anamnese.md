@@ -372,6 +372,14 @@ titel = "7. ERKRANKUNGEN "
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
+frage = "Hatten Sie eine Operationen? Wenn ja, bitte eingeben!"
+fragentyp = "Langtext"
+id = "f-17"
+optionen = []
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = ""
 frage = "Leiden Sie an einer, oben nicht aufgeführten, Erkrankung? Wenn ja, bitte eingeben!"
 fragentyp = "Text"
 id = "f-16"
