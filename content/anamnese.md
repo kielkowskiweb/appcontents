@@ -134,7 +134,7 @@ erlaeuterung = "<p></p>"
 frage = "Üben Sie Ihren Beruf überwiegend sitzend oder in Bewegung aus?"
 fragentyp = "Radio"
 id = "f-3"
-optionen = ["in Bewegung z. B. Verkäufer/Handwerker", "überwiegend sitzend z. B. am PC"]
+optionen = ["in Bewegung z. B. Verkäufer/Handwerker", "überwiegend sitzend z. B. am PC", "Kombination aus sitzender und bewegter Tätigkeit"]
 pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
