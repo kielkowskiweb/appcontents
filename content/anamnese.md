@@ -266,7 +266,7 @@ pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
-frage = "Wie lang war Ihre längste Diät?"
+frage = "Was war Ihr längster Versuch Gewicht zu reduzieren?"
 fragentyp = "Radio"
 id = "f-4"
 optionen = ["mehr als 2 Monate", "weniger als 2 Monate"]
