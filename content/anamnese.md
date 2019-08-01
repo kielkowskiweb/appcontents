@@ -85,14 +85,6 @@ optionen = ["Allein lebend", "In Partnerschaft lebend ohne Kinder im Haus", "In 
 pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
-erlaeuterung = ""
-frage = "Sind Sie berufstätig?"
-fragentyp = "Radio"
-id = "f-5"
-optionen = ["Ja", "Nein"]
-pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Rauchen Sie?"
 fragentyp = "Radio"
@@ -105,7 +97,7 @@ erlaeuterung = ""
 frage = "Wenn ja, wie viel rauchen Sie täglich?"
 fragentyp = "Radio"
 id = "f-2"
-optionen = ["weniger als 10 Zigaretten", "mehr als 10 Zigaretten"]
+optionen = ["weniger als 10 Zigaretten", "mehr als 10 Zigaretten", "E-Zigarette"]
 pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
