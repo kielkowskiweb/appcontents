@@ -250,7 +250,7 @@ pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
-frage = "Wenn ja, wie?"
+frage = "Was haben Sie bereits ausprobiert, um Ihr Gewicht zu reduzieren?"
 fragentyp = "Checkbox"
 id = "f-2"
 optionen = ["Low Carb", "Eiweißreiche Ernährung", "Kalorien zählen / Punkte zählen", "Fasten (auch Intervallfasten)", "Weniger Essen und viel Sport"]
