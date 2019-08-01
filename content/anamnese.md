@@ -273,14 +273,6 @@ optionen = ["mehr als 2 Jahre", "1 - 2 Jahre", "weniger als 1 Jahr", "Ich befind
 pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
-erlaeuterung = ""
-frage = "Wie viele Diäten haben Sie in Ihrem Leben gemacht?"
-fragentyp = "Radio"
-id = "f-3"
-optionen = ["mehr als 3 ", "weniger als 3", "noch keine Diäten gemacht"]
-pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Was haben Sie bereits ausprobiert, um Ihr Gewicht zu reduzieren?"
 fragentyp = "Checkbox"
