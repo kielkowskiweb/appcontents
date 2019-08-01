@@ -415,7 +415,7 @@ erlaeuterung = ""
 frage = "Wodurch wird Ihr Alltagsstress ausgelöst?"
 fragentyp = "Radio"
 id = "f-6"
-optionen = ["Beruflich", "Privat", "Beides"]
+optionen = ["Alltag", "Privat", "Beides"]
 pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
