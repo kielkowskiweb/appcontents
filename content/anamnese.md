@@ -206,7 +206,7 @@ pflichtfeld = false
 bild = "/uploads/diaeten_und_co-1.jpg"
 id = "a-20"
 intro = ""
-titel = "5. Gewichtsverlauf"
+titel = "5. GEWICHTSVERLAUF"
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = "<p>(Mehrfachauswahl)</p>"
