@@ -30,7 +30,7 @@ fields:
         schema:
           format: html-blocks
 pages:
-- content/rezepte.md
 - content/essen-erfassen.md
-- content/labels.md
+- content/rezepte.md
 - content/hilfe.md
+- content/labels.md
