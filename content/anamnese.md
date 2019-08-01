@@ -294,6 +294,14 @@ intro = ""
 titel = "6. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
 bild = ""
+erlaeuterung = ""
+frage = "Verlassen Sie vor 7:00 Uhr das Haus?"
+fragentyp = "Radio"
+id = "f-9"
+optionen = ["Ja", "Nein"]
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Frühstücken Sie regelmäßig bevor Sie aus dem Haus gehen?"
 fragentyp = "Radio"
