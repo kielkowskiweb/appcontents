@@ -209,6 +209,14 @@ intro = ""
 titel = "5. Gewichtsverlauf"
 [[abschnitte.fragen]]
 bild = ""
+erlaeuterung = "<p>(Mehrfachauswahl)</p>"
+frage = "Was denken Sie, könnte die Ursache für Ihr Gewichtsproblem sein?"
+fragentyp = "Checkbox"
+id = "f-"
+optionen = ["Bewegung", "Diäten", "Krankheiten", "Essen", "Stress", "Schlafstörungen"]
+pflichtfeld = true
+[[abschnitte.fragen]]
+bild = ""
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
 frage = "Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?"
 fragentyp = "Radio"
