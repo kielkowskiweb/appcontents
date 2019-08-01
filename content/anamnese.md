@@ -249,6 +249,14 @@ optionen = ["Ja", "Nein"]
 pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
+erlaeuterung = ""
+frage = "Wenn ja, wie oft?"
+fragentyp = "Radio"
+id = "f-10"
+optionen = ["mehr als 3x", "weniger als 3x"]
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Was haben Sie bereits ausprobiert, um Ihr Gewicht zu reduzieren?"
 fragentyp = "Checkbox"
