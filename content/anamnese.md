@@ -206,7 +206,7 @@ pflichtfeld = false
 bild = "/uploads/diaeten_und_co-1.jpg"
 id = "a-20"
 intro = ""
-titel = "2. DIÄTEN & CO"
+titel = "5. Gewichtsverlauf"
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
