@@ -123,7 +123,7 @@ pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = "<p>(Hier verwenden wir als Rechengrundlage 200 Arbeitstage)</p>"
-frage = "Wie viele Km legen Sie ingesamt pro Tag für den Arbeitsweg / Schulweg mit dem Fahrrad zurück?"
+frage = "Wie viele km liegen zwischen Ihrem Wohnort und Ihrem Arbeitsplatz pro Strecke?"
 fragentyp = "Zahl"
 id = "f-2"
 optionen = []
