@@ -372,6 +372,14 @@ titel = "7. ERKRANKUNGEN "
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
+frage = "Leiden Sie an einer, oben nicht aufgeführten, Erkrankung? Wenn ja, bitte eingeben!"
+fragentyp = "Text"
+id = "f-16"
+optionen = []
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = ""
 frage = "Stoffwechselstörungen / Erkrankungen I"
 fragentyp = "Radio"
 id = "f-1"
