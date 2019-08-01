@@ -463,7 +463,7 @@ erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Gelenkerkrankungen"
 fragentyp = "Checkbox"
 id = "f-12"
-optionen = ["Arthrose", "Rheuma", "Bandshceibenvorfälle", "Sonstige Gelenke"]
+optionen = ["Arthrose", "Rheuma", "Sonstige Gelenke", "Bandscheibenvorfälle"]
 pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
