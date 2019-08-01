@@ -145,6 +145,35 @@ id = "f-4"
 optionen = ["Tagesschicht", "Früh/Spätschicht", "3-Schichtsystem", "Nur Nachtschicht"]
 pflichtfeld = false
 [[abschnitte]]
+bild = "/uploads/sport.jpg"
+id = "a-60"
+intro = ""
+titel = "3. SPORT"
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = ""
+frage = "Welche Art von Sport treiben Sie?"
+fragentyp = "Radio"
+id = "f-4"
+optionen = ["Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)", "Krafttraining (z. B. Gerätesport, Gewichtstraining, Eigengewicht)", "Krafttraining + Ausdauer", "EMS / Powerplate", "Kein Sport"]
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = ""
+frage = "Wie oft treiben Sie Sport?"
+fragentyp = "Radio"
+id = "f-2"
+optionen = ["1x/Woche", "2x/Woche", "3x/Woche", "4x/Woche", "5x/Woche", "6x/Woche", "täglich"]
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = ""
+frage = "Pausieren Sie zwischen den Tagen an denen Sie Sport treiben, mindestens einen Tag?"
+fragentyp = "Radio"
+id = "f-3"
+optionen = ["Ja", "Nein", "unregelmäßig"]
+pflichtfeld = false
+[[abschnitte]]
 bild = "/uploads/diaeten_und_co-1.jpg"
 id = "a-20"
 intro = ""
@@ -286,43 +315,6 @@ frage = "Welche Art der Schlafstörung haben Sie?"
 fragentyp = "Radio"
 id = "f-3"
 optionen = ["Durchschlafstörung", "Einschlafstörung", "Durchschlafstörung und Einschlafstörung"]
-pflichtfeld = false
-[[abschnitte]]
-bild = "/uploads/sport.jpg"
-id = "a-60"
-intro = ""
-titel = "6. SPORT"
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
-frage = "Treiben Sie Sport?"
-fragentyp = "Radio"
-id = "f-1"
-optionen = ["Ja", "Nein"]
-pflichtfeld = true
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = ""
-frage = "Wie oft treiben Sie Sport?"
-fragentyp = "Radio"
-id = "f-2"
-optionen = ["1x/Woche", "2x/Woche", "3x/Woche", "4x/Woche", "5x/Woche", "6x/Woche", "täglich"]
-pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = ""
-frage = "Pausieren Sie zwischen den Tagen an denen Sie Sport treiben, mindestens einen Tag?"
-fragentyp = "Radio"
-id = "f-3"
-optionen = ["Ja", "Nein", "unregelmäßig"]
-pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
-erlaeuterung = ""
-frage = "Welche Art von Sport treiben Sie?"
-fragentyp = "Radio"
-id = "f-4"
-optionen = ["Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)", "Krafttraining (z. B. Gerätesport, Gewichtstraining, Eigengewicht)", "Krafttraining + Ausdauer", "EMS / Powerplate"]
 pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/eamo_krank_neu.jpg"
