@@ -291,7 +291,7 @@ pflichtfeld = false
 bild = "/uploads/essegewohnheiten.png"
 id = "a-40"
 intro = ""
-titel = "4. ESSGEWOHNHEITEN"
+titel = "6. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
