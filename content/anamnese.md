@@ -209,14 +209,6 @@ intro = ""
 titel = "5. Gewichtsverlauf"
 [[abschnitte.fragen]]
 bild = ""
-erlaeuterung = ""
-frage = "Wie gut können Sie bei eigenen Diät- oder Abnehmbemühungen noch abnehmen?"
-fragentyp = "Radio"
-id = "f-11"
-optionen = ["gut", "mäßig", "kaum noch"]
-pflichtfeld = false
-[[abschnitte.fragen]]
-bild = ""
 erlaeuterung = "<p>(Mehrfachauswahl)</p>"
 frage = "Was denken Sie, könnte die Ursache für Ihr Gewichtsproblem sein?"
 fragentyp = "Checkbox"
@@ -294,6 +286,14 @@ frage = "Was haben Sie bereits ausprobiert, um Ihr Gewicht zu reduzieren?"
 fragentyp = "Checkbox"
 id = "f-2"
 optionen = ["Low Carb", "Eiweißreiche Ernährung", "Kalorien zählen / Punkte zählen", "Fasten (auch Intervallfasten)", "Weniger Essen und viel Sport"]
+pflichtfeld = false
+[[abschnitte.fragen]]
+bild = ""
+erlaeuterung = ""
+frage = "Wie gut können Sie bei eigenen Diät- oder Abnehmbemühungen noch abnehmen?"
+fragentyp = "Radio"
+id = "f-11"
+optionen = ["gut", "mäßig", "kaum noch"]
 pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/essegewohnheiten.png"
