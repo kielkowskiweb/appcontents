@@ -455,7 +455,7 @@ pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
-frage = "Hatten Sie eine Operationen? Wenn ja, bitte eingeben!"
+frage = "Hatten Sie eine oder mehrere Operationen? Wenn ja, bitte eingeben!"
 fragentyp = "Langtext"
 id = "f-17"
 optionen = []
