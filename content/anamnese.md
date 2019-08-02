@@ -88,7 +88,7 @@ optionen = ["Ja, aufgehört vor mehr als 2 Jahren", "Ja, aufgehört vor weniger 
 pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/arbeit.jpg"
-id = "a-30"
+id = "a-12"
 intro = ""
 titel = "2. ARBEIT UND SCHULE"
 [[abschnitte.fragen]]
@@ -125,7 +125,7 @@ optionen = ["Tagesschicht", "Früh/Spätschicht", "3-Schichtsystem", "Nur Nachts
 pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/sport.jpg"
-id = "a-60"
+id = "a-13"
 intro = ""
 titel = "3. SPORT"
 [[abschnitte.fragen]]
@@ -154,7 +154,7 @@ optionen = ["Ja", "Nein", "unregelmäßig"]
 pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/schlafen_222.jpg"
-id = "a-50"
+id = "a-14"
 intro = ""
 titel = "4. SCHLAFGEWOHNHEITEN"
 [[abschnitte.fragen]]
@@ -183,7 +183,7 @@ optionen = ["Durchschlafstörung", "Einschlafstörung", "Durchschlafstörung und
 pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/diaeten_und_co-1.jpg"
-id = "a-20"
+id = "a-15"
 intro = ""
 titel = "5. GEWICHTSVERLAUF"
 [[abschnitte.fragen]]
@@ -268,7 +268,7 @@ optionen = ["gut", "mäßig", "kaum noch"]
 pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/essegewohnheiten.png"
-id = "a-40"
+id = "a-16"
 intro = ""
 titel = "6. ESSGEWOHNHEITEN"
 [[abschnitte.fragen]]
@@ -345,7 +345,7 @@ optionen = []
 pflichtfeld = false
 [[abschnitte]]
 bild = "/uploads/eamo_krank_neu.jpg"
-id = "a-70"
+id = "a-17"
 intro = ""
 titel = "7. ERKRANKUNGEN "
 [[abschnitte.fragen]]
