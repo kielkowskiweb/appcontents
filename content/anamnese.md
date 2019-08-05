@@ -390,9 +390,9 @@ optionen = ["Alltagsstress", "Migräne", "Depressionen / Angststörungen"]
 pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
-erlaeuterung = ""
+erlaeuterung = "<p><em>Mehrfachauswahl möglich</em></p>"
 frage = "Wodurch wird Ihr Alltagsstress ausgelöst?"
-fragentyp = "Radio"
+fragentyp = "Checkbox"
 id = "f-6"
 optionen = ["Alltag", "Privat", "Beides"]
 pflichtfeld = false
