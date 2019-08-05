@@ -130,9 +130,9 @@ intro = ""
 titel = "3. SPORT"
 [[abschnitte.fragen]]
 bild = ""
-erlaeuterung = ""
+erlaeuterung = "<p><em>Mehrfachauswahl möglich</em></p>"
 frage = "Welche Art von Sport treiben Sie?"
-fragentyp = "Radio"
+fragentyp = "Checkbox"
 id = "f-4"
 optionen = ["Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)", "Krafttraining (z. B. Gerätesport, Gewichtstraining, Eigengewicht)", "Krafttraining + Ausdauer", "EMS / Powerplate", "Kein Sport"]
 pflichtfeld = false
