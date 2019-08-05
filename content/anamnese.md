@@ -93,9 +93,9 @@ intro = ""
 titel = "2. ARBEIT UND SCHULE"
 [[abschnitte.fragen]]
 bild = ""
-erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
+erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen. Mehrfachauswahl möglich</em></p>"
 frage = "Wie legen Sie Ihren Arbeitsweg / Schulweg zurück?"
-fragentyp = "Radio"
+fragentyp = "Checkbox"
 id = "f-1"
 optionen = ["Auto", "Fahrrad", "Ich arbeite überwiegend Zuhause", "Ich bin nicht berufstätig", "öffentlicher Nahverkehr"]
 pflichtfeld = true
