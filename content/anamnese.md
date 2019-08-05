@@ -366,9 +366,9 @@ optionen = ["Schilddrüsen - Überfunktion", "Schilddrüsen - Unterfunktion"]
 pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
-erlaeuterung = ""
+erlaeuterung = "<p><em>Mehrfachauswahl möglich</em></p>"
 frage = "Stoffwechselstörungen / Erkrankungen III"
-fragentyp = "Radio"
+fragentyp = "Checkbox"
 id = "f-3"
 optionen = ["Hohe Blutfettwerte", "Hohe Leberwerte", "Hohes Cholesterin"]
 pflichtfeld = false
