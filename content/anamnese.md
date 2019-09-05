@@ -278,7 +278,7 @@ frage = "Verlassen Sie vor 7:00 Uhr das Haus?"
 fragentyp = "Radio"
 id = "f-9"
 optionen = ["Ja", "Nein"]
-pflichtfeld = false
+pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = "<p><em>Das ist ein Pflichtfeld, bitte zwingend ausfüllen.</em></p>"
@@ -310,7 +310,7 @@ frage = "Essen Sie zum Mittagessen Kohlehydrate (Kartoffeln, Reis, Pasta)?"
 fragentyp = "Radio"
 id = "f-3"
 optionen = ["Ja", "Nein", "manchmal"]
-pflichtfeld = false
+pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
