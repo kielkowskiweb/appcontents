@@ -142,7 +142,7 @@ erlaeuterung = ""
 frage = "Wie oft treiben Sie Sport?"
 fragentyp = "Radio"
 id = "f-2"
-optionen = ["1x/Woche", "2x/Woche", "3x/Woche", "4x/Woche", "5x/Woche", "6x/Woche", "täglich"]
+optionen = ["1x/Woche", "2x/Woche", "3x/Woche", "4x/Woche", "5x/Woche", "6x/Woche", "täglich", "kein Sport"]
 pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
