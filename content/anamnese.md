@@ -106,7 +106,7 @@ frage = "Wie viele km liegen zwischen Ihrem Wohnort und Ihrem Arbeitsplatz pro S
 fragentyp = "Zahl"
 id = "f-2"
 optionen = []
-pflichtfeld = false
+pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = "<p></p>"
@@ -114,7 +114,7 @@ frage = "Üben Sie Ihren Beruf überwiegend sitzend oder in Bewegung aus?"
 fragentyp = "Radio"
 id = "f-3"
 optionen = ["in Bewegung z. B. Verkäufer/Handwerker", "überwiegend sitzend z. B. am PC", "Kombination aus sitzender und bewegter Tätigkeit"]
-pflichtfeld = false
+pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
