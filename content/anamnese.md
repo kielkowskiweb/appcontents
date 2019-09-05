@@ -150,8 +150,8 @@ erlaeuterung = ""
 frage = "Pausieren Sie zwischen den Tagen an denen Sie Sport treiben, mindestens einen Tag?"
 fragentyp = "Radio"
 id = "f-3"
-optionen = ["Ja", "Nein", "unregelmäßig"]
-pflichtfeld = false
+optionen = ["Ja", "Nein", "unregelmäßig", "Ich treibe keinen Sport"]
+pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/schlafen_222.jpg"
 id = "a-14"
