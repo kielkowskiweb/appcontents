@@ -248,7 +248,7 @@ erlaeuterung = ""
 frage = "Wann war Ihr letzter Versuch Gewicht zu reduzieren?"
 fragentyp = "Radio"
 id = "f-5"
-optionen = ["mehr als 2 Jahre", "1 - 2 Jahre", "weniger als 1 Jahr", "Ich befinde mich aktuell in Diät- oder Abnehmbemühungen "]
+optionen = ["mehr als 2 Jahre", "1 - 2 Jahre", "weniger als 1 Jahr", "Ich befinde mich aktuell in Diät- oder Abnehmbemühungen ", "Ich habe noch nicht versucht mein Gewicht zu reduzieren"]
 pflichtfeld = false
 [[abschnitte.fragen]]
 bild = ""
