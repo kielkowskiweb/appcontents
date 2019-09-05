@@ -232,16 +232,16 @@ erlaeuterung = ""
 frage = "Wenn ja, wie oft?"
 fragentyp = "Radio"
 id = "f-10"
-optionen = ["mehr als 3x", "weniger als 3x"]
-pflichtfeld = false
+optionen = ["mehr als 3x", "weniger als 3x", "noch nicht"]
+pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
 frage = "Was war Ihr längster Versuch Gewicht zu reduzieren?"
 fragentyp = "Radio"
 id = "f-4"
-optionen = ["mehr als 2 Monate", "weniger als 2 Monate"]
-pflichtfeld = false
+optionen = ["mehr als 2 Monate", "weniger als 2 Monate", "Ich habe noch nicht versucht mein Gewicht zu reduzieren"]
+pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
