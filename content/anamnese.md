@@ -256,8 +256,8 @@ erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
 frage = "Was haben Sie bereits ausprobiert, um Ihr Gewicht zu reduzieren?"
 fragentyp = "Checkbox"
 id = "f-2"
-optionen = ["Low Carb", "Eiweißreiche Ernährung", "Kalorien zählen / Punkte zählen", "Fasten (auch Intervallfasten)", "Weniger Essen und viel Sport"]
-pflichtfeld = false
+optionen = ["Low Carb", "Eiweißreiche Ernährung", "Kalorien zählen / Punkte zählen", "Fasten (auch Intervallfasten)", "wenig Essen", "viel Sport", "Ich habe noch nicht versucht mein Gewicht selbständig zu reduzieren"]
+pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
