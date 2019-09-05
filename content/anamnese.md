@@ -179,8 +179,8 @@ erlaeuterung = ""
 frage = "Welche Art der Schlafstörung haben Sie?"
 fragentyp = "Radio"
 id = "f-3"
-optionen = ["Durchschlafstörung", "Einschlafstörung", "Durchschlafstörung und Einschlafstörung"]
-pflichtfeld = false
+optionen = ["Durchschlafstörung", "Einschlafstörung", "Durchschlafstörung und Einschlafstörung", "keine Schlafstörung"]
+pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/diaeten_und_co-1.jpg"
 id = "a-15"
