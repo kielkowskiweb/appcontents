@@ -264,8 +264,8 @@ erlaeuterung = ""
 frage = "Wie gut können Sie bei eigenen Diät- oder Abnehmbemühungen noch abnehmen?"
 fragentyp = "Radio"
 id = "f-11"
-optionen = ["gut", "mäßig", "kaum noch"]
-pflichtfeld = false
+optionen = ["gut", "mäßig", "kaum noch", "Ich mache keine eigenen Abnehmbemühungen"]
+pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/essegewohnheiten.png"
 id = "a-16"
