@@ -318,15 +318,15 @@ frage = "Ist das Abendessen Ihre Hauptmahlzeit?"
 fragentyp = "Radio"
 id = "f-4"
 optionen = ["immer", "häufig", "eher nicht"]
-pflichtfeld = false
+pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
 frage = "Essen Sie viel Süßigkeiten / salzige Snacks?"
 fragentyp = "Radio"
 id = "f-5"
-optionen = ["täglich", "häufig", "selten"]
-pflichtfeld = false
+optionen = ["täglich", "häufig", "selten", "nie"]
+pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = "<p><em>(Mehrfachauswahl möglich)</em></p>"
