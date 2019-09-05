@@ -334,7 +334,7 @@ frage = "Welche Nahrungsunverträglichkeiten  haben Sie?"
 fragentyp = "Checkbox"
 id = "f-6"
 optionen = ["Laktoseunverträglichkeit", "Glutenunverträglichkeit", "Fruktoseintoleranz", "Histaminunverträglichkeit", "keine Nahrungsmittelunverträglichkeiten"]
-pflichtfeld = false
+pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
