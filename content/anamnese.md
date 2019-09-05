@@ -122,7 +122,7 @@ frage = "Zu welchen Zeiten / Schichten arbeiten Sie?"
 fragentyp = "Radio"
 id = "f-4"
 optionen = ["Tagesschicht", "Früh/Spätschicht", "3-Schichtsystem", "Nur Nachtschicht"]
-pflichtfeld = false
+pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/sport.jpg"
 id = "a-13"
