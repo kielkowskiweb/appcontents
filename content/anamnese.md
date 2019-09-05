@@ -172,7 +172,7 @@ frage = "Wie gut schlafen Sie?"
 fragentyp = "Radio"
 id = "f-2"
 optionen = ["gut", "schlecht", "überwiegend gut", "überwiegend schlecht"]
-pflichtfeld = false
+pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
