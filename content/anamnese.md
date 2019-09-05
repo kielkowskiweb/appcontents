@@ -135,7 +135,7 @@ frage = "Welche Art von Sport treiben Sie?"
 fragentyp = "Checkbox"
 id = "f-4"
 optionen = ["Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)", "Krafttraining (z. B. Gerätesport, Gewichtstraining, Eigengewicht)", "Krafttraining + Ausdauer", "EMS / Powerplate", "Kein Sport"]
-pflichtfeld = false
+pflichtfeld = true
 [[abschnitte.fragen]]
 bild = ""
 erlaeuterung = ""
