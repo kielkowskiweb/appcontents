@@ -84,8 +84,8 @@ erlaeuterung = ""
 frage = "Waren Sie Raucher?"
 fragentyp = "Radio"
 id = "f-3"
-optionen = ["Ja, aufgehört vor mehr als 2 Jahren", "Ja, aufgehört vor weniger als 2 Jahren"]
-pflichtfeld = false
+optionen = ["Ja, aufgehört vor mehr als 2 Jahren", "Ja, aufgehört vor weniger als 2 Jahren", "Nein"]
+pflichtfeld = true
 [[abschnitte]]
 bild = "/uploads/arbeit.jpg"
 id = "a-12"
